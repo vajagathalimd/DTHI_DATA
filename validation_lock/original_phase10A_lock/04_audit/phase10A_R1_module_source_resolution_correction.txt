@@ -1,0 +1,18 @@
+PHASE 10A-R1 MODULE-SOURCE RESOLUTION CORRECTION
+
+The Phase 10A discovery routine selected a pre-existing table that
+contained numeric DTHI module scores rather than the canonical DTHI
+seed-gene definitions. This produced invalid Phase 10B1 module counts
+of 42 numeric values per module and invalid zero-overlap results.
+
+The source has been corrected to the pre-existing canonical Phase 1
+BrainSpan seed-gene table:
+
+03_processed_data/transcriptomics/BrainSpan/DTHI_seed_modules/
+dthi_seed_gene_matching.tsv
+
+The correction was made before any external expression-level validation
+or outcome analysis. Candidate TFs, module identities, expected
+directions, endpoints, statistical gates and validation hypotheses were
+not changed. This is a source-resolution correction, not hypothesis or
+candidate reselection.

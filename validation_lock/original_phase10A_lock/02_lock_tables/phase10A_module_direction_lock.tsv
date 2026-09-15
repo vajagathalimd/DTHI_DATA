@@ -1,0 +1,10 @@
+module_id	display_name	expected_early_context	expected_late_context	primary_direction
+patterning_arealization	Patterning–arealisation	Radial glia and early progenitors	Reduced in postmitotic neurons	early_high
+progenitor_radial_glia	Progenitor–radial glia	VZ/SVZ and radial glia	Reduced in cortical plate neurons	early_high
+neurogenesis_migration_layering	Neurogenesis–migration–layering	Intermediate progenitors and migrating neurons	Intermediate developmental states	intermediate_peak
+axon_guidance_neurite_outgrowth	Axon guidance–neurite outgrowth	Migrating and immature neurons	Intermediate-to-late neuronal states	intermediate_to_late
+synaptic_assembly_receptor_trafficking	Synaptic assembly–receptor trafficking	Low in germinal progenitors	Increased in cortical-plate neurons	late_high
+astrocyte_maturation_metabolic_support	Astrocyte maturation–metabolic support	Glioblast and early astroglial lineages	Increased in later fetal stages	late_glial_high
+oligodendrocyte_myelination	Oligodendrocyte–myelination	OPC/early oligodendroglial lineages	Increased in later stages	late_glial_high
+activity_dependent_plasticity	Activity-dependent plasticity	Low in progenitor states	Increased in differentiated neurons	late_high
+synaptic_membrane_structural_candidates	Synaptic-membrane structural candidates	Low in germinal compartments	Cortical plate and differentiated excitatory neurons	late_high

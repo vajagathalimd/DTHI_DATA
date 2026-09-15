@@ -1,0 +1,5 @@
+control_gene	control_role	expected_effect
+PAX6	radial-glia/progenitor positive control	Loss should reduce progenitor-associated programme support and alter neurogenic progression.
+SOX2	neural-progenitor maintenance positive control	Loss should reduce progenitor-state maintenance.
+EOMES	intermediate-progenitor positive control	Perturbation should alter the progenitor-to-neuron transition.
+NEUROD2	neuronal differentiation/maturation positive control	Loss should reduce neuronal maturation and synaptic programme activity.

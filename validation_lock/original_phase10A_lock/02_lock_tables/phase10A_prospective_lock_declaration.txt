@@ -1,0 +1,28 @@
+PHASE 10A PROSPECTIVE VALIDATION LOCK
+
+Lock date (UTC): 2026-07-29T22:32:53.121938+00:00
+Random seed: 20260730
+
+The developmental programme assignments, DTHI module definitions, candidate
+transcription-factor shortlist, expected module directions, primary endpoints,
+negative-control selection rule and success gates are frozen before examining
+the independent validation datasets.
+
+Candidate TF selection rule:
+The first 8 unique transcription factors were selected in the
+existing frozen order of the Phase 7B3 top-supported TF trajectory table.
+No MERFISH, Visium, external snRNA-seq, multiome, CRISPR or virtual-perturbation
+result was inspected during candidate selection.
+
+No candidate may be added, removed or reordered after validation data are
+examined. Any unavoidable change must be versioned, justified, and reported as
+a protocol deviation. Failed prespecified hypotheses must be retained in the
+final report.
+
+Primary inferential unit:
+Biological donor or donor-level pseudobulk. Cell counts are descriptive and
+must not be treated as independent biological replication.
+
+Structural branch:
+The completed negative isolated-domain structural screen remains outside the
+Nature Communications validation manuscript and is not reopened.

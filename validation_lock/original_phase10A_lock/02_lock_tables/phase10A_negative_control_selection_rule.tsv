@@ -1,0 +1,2 @@
+control_type	number	matching_variables	exclusions	selection_seed	selection_time	reselection_allowed
+negative_TF_controls	10	validation-dataset expression level and inferred network degree	frozen candidate TFs; positive-control TFs; unexpressed TFs	20260730	after validation dataset preprocessing but before perturbation analysis	False

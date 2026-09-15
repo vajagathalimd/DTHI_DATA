@@ -1,0 +1,7 @@
+endpoint_id	endpoint	definition	inferential_unit	primary_or_secondary
+E01	maturation_shift_score	Mean maturation-high programme activity minus mean fetal-high programme activity.	donor-level pseudobulk	primary
+E02	radial_glia_vs_postmitotic_neuron_module_contrast	Prespecified module-score contrast between radial-glia/progenitor states and postmitotic excitatory-neuron states.	donor × age × area × cell-state pseudobulk	primary
+E03	VZ_SVZ_vs_cortical_plate_module_contrast	Prespecified module-score contrast between germinal compartments and cortical plate.	donor × age × area × compartment pseudobulk	primary
+E04	early_vs_late_gestational_module_contrast	Age-associated module shift tested with donor-aware mixed-effects models.	donor × age × area pseudobulk	primary
+E05	TF_enhancer_regulon_support	Candidate-TF motif accessibility, enhancer–target support, regulon activity and enrichment for the locked DTHI programmes.	donor-level multiome pseudobulk	primary
+E06	virtual_perturbation_reciprocity	Reciprocal knockout and overexpression effects on maturation shift and trajectory displacement.	candidate TF × dataset × perturbation direction	primary

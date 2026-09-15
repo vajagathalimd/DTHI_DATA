@@ -1,0 +1,6 @@
+software	planned_use	installation_strategy	install_now
+Python	single-cell processing and validation orchestration	isolated conda/mamba environment	False
+R	donor-aware mixed models and pseudobulk sensitivity analyses	isolated renv project	False
+SCENIC+	enhancer-driven eGRN validation	separate pinned environment after processed multiome access is confirmed	False
+CellOracle	TF knockout and overexpression simulation	separate Python 3.10 environment or official container	False
+scTenifoldKnk	orthogonal virtual knockout	separate R environment	False

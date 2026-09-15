@@ -1,0 +1,26 @@
+===== PHASE 10A PROSPECTIVE VALIDATION LOCK =====
+
+Frozen candidate TFs: 8/8
+Expected modules locked: 9/9
+Primary endpoints locked: 6
+Validation gates locked: 7
+Random seed: 20260730
+
+Developmental programme source resolved: True
+DTHI module-definition source resolved: True
+
+Dataset records preflighted: 5
+Dataset endpoints reachable: 5/5
+Disk free: 453118509056 bytes
+CPU count: 12
+Memory total: 58971025408 bytes
+GPU: NVIDIA GeForce RTX 2080 Ti, 11264 MiB
+
+Large validation data downloaded: False
+Validation data inspected: False
+Candidate reselection allowed: False
+
+All core outputs valid: True
+All scientific sources resolved: True
+
+PHASE 10A STATUS: passed_prospective_validation_lock_ready_for_phase10B_preprocessing

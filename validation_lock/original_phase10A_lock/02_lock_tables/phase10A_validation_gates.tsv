@@ -1,0 +1,8 @@
+gate_id	layer	criterion	required
+G01	independent_spatial_replication	At least 6 of 9 modules reproduce the prespecified direction.	True
+G02	independent_spatial_replication	Progenitor–radial-glia and synaptic-assembly modules both pass.	True
+G03	independent_spatial_replication	Donor-level BH-adjusted P < 0.05 and direction retained in at least 80% of leave-one-out reconstructions.	True
+G04	independent_spatial_replication	Observed effects exceed the 95th percentile of module-size- and expression-matched random gene-set effects.	True
+G05	multiome_regulatory_validation	At least 3 frozen TF candidates receive replicated enhancer-driven multiome support.	True
+G06	virtual_perturbation	At least 2 TFs show reciprocal knockout/overexpression effects and agreement across two perturbation methods.	True
+G07	external_experimental_support	At least one final TF or its regulon has concordant public CRISPR/Perturb-seq support.	True

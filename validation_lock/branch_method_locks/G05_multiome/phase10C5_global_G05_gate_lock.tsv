@@ -1,0 +1,2 @@
+gate_id	original_phase10A_criterion	operational_definition	global_success_rule	candidate_reselection_allowed	failed_candidates_retained	positive_controls_count_toward_G05	negative_controls_count_toward_G05
+G05	At least 3 frozen TF candidates receive replicated enhancer-driven multiome support.	A frozen TF is counted only when all seven phase10C5 per-TF criteria pass.	at least 3 of the 8 frozen candidates pass all seven strict criteria	False	True	False	False
