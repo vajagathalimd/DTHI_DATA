@@ -1,27 +1,45 @@
-# Manuscript release notes
+# v1.0-manuscript
 
-## v1.0-manuscript
+Manuscript reproducibility release for:
 
-This repository state supports the manuscript version of the Developmental
-Transcriptomic Hierarchy (DTHI) study.
+**A developmental transcriptomic hierarchy links human cortical maturation
+to adult cortical phenotypes and autism-associated anatomy**
 
-The manuscript-facing package contains:
+Authors:
 
-- Supplementary Tables S1-S15;
+Vajagathali Mohammed, Massimo Frangiamone, Sudhan Mookandi,
+Athira Anirudhan and Álvaro Lázaro.
+
+## Contents
+
+This release contains:
+
+- manuscript Supplementary Tables S1-S15;
 - final manuscript Figures 1-6;
-- numerical source data for Figures 1-6;
+- numerical source data supporting Figures 1-6;
 - manuscript-relevant analysis and figure-generation scripts;
-- prospective validation lock and audit materials;
-- final validation closure and claim-boundary outputs;
-- software/environment and reproducibility documentation.
+- original prospective validation lock and frozen definitions;
+- gate-by-gate validation closure and claim-boundary outputs;
+- software/environment information;
+- file hashes and reproducibility/provenance documentation.
 
-Scientific outputs were not recomputed during repository packaging.
+Raw third-party datasets are not redistributed.
 
-The prospective validation framework should be interpreted according to its
-original frozen criteria. At closure, 0/7 prospective gates passed and the
-strict convergent-regulator set contained zero regulators. Supportive
-computational findings should not be represented as experimentally validated
-causal effects.
+## Evidential status
 
-The GitHub repository was created after the underlying prospective lock and
-therefore does not constitute external preregistration.
+The release preserves the manuscript's evidence hierarchy.
+
+- Prospective gates passed: 0/7.
+- Strict convergent regulators: 0.
+- NKX2-2, RFX5 and RFXANK CellOracle effects are supportive computational
+  evidence and not experimentally validated causal effects.
+- G07 records external directional-signature testability limitations and is
+  not interpreted as a biological null.
+- Candidate identities or thresholds were not changed to rescue non-passed
+  validation gates.
+
+The prospective lock predates the independent validation analyses. The
+public GitHub repository was created subsequently and is not presented as
+external preregistration.
+
+No statistical result was recomputed during manuscript/repository assembly.

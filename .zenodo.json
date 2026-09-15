@@ -1,0 +1,46 @@
+{
+  "title": "Reproducibility package for: A developmental transcriptomic hierarchy links human cortical maturation to adult cortical phenotypes and autism-associated anatomy",
+  "upload_type": "dataset",
+  "description": "Manuscript-facing reproducibility package for the Developmental Transcriptomic Hierarchy (DTHI) study. The archive contains derived manuscript source data, Supplementary Tables S1-S15, final Figures 1-6 and figure source data, manuscript-relevant analysis and figure-generation code, prospective validation lock and audit materials, final gate closure outputs, software/environment information and provenance hashes. Raw third-party datasets are not redistributed. At prospective closure, 0/7 prespecified gates passed and no strict convergent regulator was established.",
+  "creators": [
+    {
+      "name": "Mohammed, Vajagathali",
+      "affiliation": "Department of Biochemistry and Biophysics, Stockholm University, Stockholm, Sweden"
+    },
+    {
+      "name": "Frangiamone, Massimo",
+      "affiliation": "Department of Biomedical Sciences, University of Lausanne, Rue du Bugnon 7, 1005 Lausanne, Switzerland"
+    },
+    {
+      "name": "Mookandi, Sudhan",
+      "affiliation": "Human Genetics Research Centre, Sree Balaji Dental College and Hospital, Bharath Institute of Higher Education and Research, Chennai, Tamil Nadu, India"
+    },
+    {
+      "name": "Anirudhan, Athira",
+      "affiliation": "Department of Neuroscience and Pharmacology, Carver College of Medicine, Iowa, USA"
+    },
+    {
+      "name": "Lázaro, Álvaro",
+      "affiliation": "Department of Basic Medical Sciences, Faculty of Medicine, CEU San Pablo University, 28922 Madrid, Spain"
+    }
+  ],
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "human cortical development",
+    "developmental transcriptomic hierarchy",
+    "transcriptomics",
+    "imaging transcriptomics",
+    "spatial transcriptomics",
+    "regulatory genomics",
+    "autism",
+    "reproducibility"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/vajagathalimd/DTHI_DATA",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

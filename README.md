@@ -4,6 +4,17 @@ Reproducibility, derived-data and manuscript-support repository for the
 **Developmental Transcriptomic Hierarchy (DTHI)** study of human cortical
 development.
 
+## Associated manuscript
+
+**A developmental transcriptomic hierarchy links human cortical maturation to adult cortical phenotypes and autism-associated anatomy**
+
+**Authors:** Vajagathali Mohammed, Massimo Frangiamone, Sudhan Mookandi, Athira Anirudhan and Álvaro Lázaro
+
+This repository is the manuscript-facing reproducibility package containing
+the derived data, final figures, figure source data, analysis code,
+prospective validation lock/audit materials, validation closure outputs and
+software/environment information supporting the study.
+
 ## Study scope
 
 The study integrates developmental transcriptomics, adult cortical

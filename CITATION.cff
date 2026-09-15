@@ -1,22 +1,51 @@
 cff-version: 1.2.0
-message: "If you use this repository, please cite the associated DTHI repository and manuscript."
-title: "DTHI_DATA: Reproducibility and derived-data repository for the Developmental Transcriptomic Hierarchy study"
+message: "If you use this repository, please cite this reproducibility package and the associated manuscript."
+title: "Reproducibility package for: A developmental transcriptomic hierarchy links human cortical maturation to adult cortical phenotypes and autism-associated anatomy"
 type: dataset
 authors:
   - family-names: "Mohammed"
     given-names: "Vajagathali"
     email: "vajagathali.mohammed@dbb.su.se"
-    affiliation: "Department of Biochemistry and Biophysics, Stockholm University"
+    affiliation: "Department of Biochemistry and Biophysics, Stockholm University, Stockholm, Sweden"
+
+  - family-names: "Frangiamone"
+    given-names: "Massimo"
+    affiliation: "Department of Biomedical Sciences, University of Lausanne, Rue du Bugnon 7, 1005 Lausanne, Switzerland"
+
+  - family-names: "Mookandi"
+    given-names: "Sudhan"
+    affiliation: "Human Genetics Research Centre, Sree Balaji Dental College and Hospital, Bharath Institute of Higher Education and Research, Chennai, Tamil Nadu, India"
+
+  - family-names: "Anirudhan"
+    given-names: "Athira"
+    affiliation: "Department of Neuroscience and Pharmacology, Carver College of Medicine, Iowa, USA"
+
+  - family-names: "Lázaro"
+    given-names: "Álvaro"
+    affiliation: "Department of Basic Medical Sciences, Faculty of Medicine, CEU San Pablo University, 28922 Madrid, Spain"
+
 version: "1.0.0"
 date-released: "2026-09-15"
+
 repository-code: "https://github.com/vajagathalimd/DTHI_DATA"
 url: "https://github.com/vajagathalimd/DTHI_DATA"
+
+abstract: >-
+  Reproducibility and derived-data package supporting a computational study
+  that integrates human developmental transcriptomics, adult cortical
+  transcriptomic maps, regulatory inference, perturbational transcriptomics,
+  fetal spatial references, multiome evidence, virtual perturbation and
+  external cortical phenotype maps. The prospective validation framework
+  retained all seven prespecified gates; none passed as prespecified.
+
 keywords:
-  - transcriptomics
   - human cortical development
+  - transcriptomics
   - developmental transcriptomic hierarchy
+  - imaging transcriptomics
   - spatial transcriptomics
   - regulatory genomics
-  - perturbational transcriptomics
+  - autism
   - reproducibility
+
 license: "CC-BY-4.0"
