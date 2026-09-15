@@ -1,0 +1,4 @@
+final_phase7_evidence_class	final_phase7_evidence_class_rank	TF_count	TFs	maturation_high_TFs	fetal_high_TFs	median_multilayer_score
+Tier_F1_convergent_temporal_cis_perturbational_regulator	1	6	E2F1|MYC|E2F4|NRF1|REST|E2F3	1	5	11.5
+Tier_F2_primary_perturbational_regulator_without_direct_cis_validation	2	2	CIITA|RFX5	2	0	8.0
+Tier_F3_small_regulon_perturbational_sensitivity_regulator	3	2	RFXAP|SRSF2	1	1	4.5

@@ -1,0 +1,6 @@
+evidence_availability_class	chemical_count	CMAP_global_residual_chemicals	direct_LINCS_evaluated_chemicals	neural_data_chemicals	replicate_concordant_profile_chemicals	total_Level5_signatures	total_replicate_concordant_signatures
+CMAP_only_global_residual_mechanism	3	3	0	0	0	0	0.0
+CMAP_only_without_global_residual_mechanism	11	0	0	0	0	0	0.0
+CMAP_plus_direct_LINCS_no_reproducibility_subset	1	0	1	1	0	15	0.0
+CMAP_plus_direct_LINCS_plus_neural_plus_reproducibility	5	2	5	5	5	840	549.0
+CMAP_plus_direct_LINCS_plus_reproducibility_no_neural	9	1	9	0	9	377	223.0

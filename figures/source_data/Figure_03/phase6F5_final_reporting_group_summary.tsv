@@ -1,0 +1,8 @@
+final_reporting_group	mechanistic_priority_scope	chemical_count	median_priority_score	median_confidence_score	bootstrap_replicated_chemicals	chemical_names
+CMAP_only_global_residual_mechanism	CMAP_only_provisional	3	77.0	26.0	0	hexetidine|methotrexate|suloctidil
+CMAP_only_provisional_or_unresolved	CMAP_only_provisional	11	4.0	14.0	0	0175029-0000|GW-8510|H-7|HC toxin|SC-58125|alsterpaullone|ellipticine|fenoprofen|monobenzone|natamycin|scriptaid
+direct_developmental_program_disruption	integrated_CMAP_plus_direct_LINCS	1	9.8	45.26998942823873	0	primaquine
+direct_injury_or_stress_perturbation	integrated_CMAP_plus_direct_LINCS	6	37.8	66.67256944419299	5	camptothecin|daunorubicin|dexamethasone|doxorubicin|etoposide|verapamil
+direct_late_or_positive_shift_without_benefit_inference	integrated_CMAP_plus_direct_LINCS	4	4.0	51.865227523476825	2	fulvestrant|trichostatin A|valproic acid|vorinostat
+direct_no_supported_absolute_effect	integrated_CMAP_plus_direct_LINCS	3	4.0	54.5	0	mitoxantrone|resveratrol|rifabutin
+direct_other_developmental_effect	integrated_CMAP_plus_direct_LINCS	1	0.8	50.26998942823872	0	dosulepin

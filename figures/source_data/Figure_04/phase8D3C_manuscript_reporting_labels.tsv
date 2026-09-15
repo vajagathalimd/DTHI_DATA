@@ -1,0 +1,5 @@
+evidence_tier	tier_order	allowed_description	main_text_status	significant_word_allowed	replication_word_allowed	causal_language_allowed	required_qualifier	prohibited_claims
+Tier1_global_FWER	1	survived exact-bijective global maxT correction	primary	True	False	False	spatial association	causal mechanism;disease-specific expression;independent replication
+Tier2_family_corrected	2	retained family-level corrected support	secondary	True	False	False	did not survive global familywise-error control	global significance;replication;causal mechanism
+Tier3A_nominal	3	nominal exact-bijective spin correspondence	exploratory_or_supplementary	False	False	False	uncorrected and exploratory	significant;corrected;replicated;causal
+Tier3B_descriptive	4	descriptive correspondence without statistical support	matrix_or_summary_only	False	False	False	not statistically supported	association;significance;replication;causality

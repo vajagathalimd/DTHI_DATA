@@ -1,0 +1,10 @@
+mechanism_category	axis_role	expected_CMAP_direction	all_parent_score_spearman	maxT_parent_score_spearman	original_global_FDR_parent_count	leaveout_global_FDR_parent_count	retained_global_FDR_parent_count	lost_global_FDR_parent_count	gained_global_FDR_parent_count	global_support_retention_fraction	maxT_original_global_FDR_count	maxT_leaveout_global_FDR_count	maxT_retained_global_FDR_count	maxT_lost_global_FDR_count	maxT_gained_global_FDR_count
+apoptosis_cytotoxicity	injury_stress_confounder	up	0.791058336461468	0.870533674122998	241	0	0	241	0	0	5	0	0	5	0
+DNA_damage_p53	injury_stress_confounder	up	0.759504010985436	0.765871634165613	339	124	112	227	12	0.330383480825959	16	12	12	4	0
+early_proliferative_state	early_program_suppression	dn	0.764502078224066	0.698388689946246	1153	84	84	1069	0	0.0728534258456201	53	10	10	43	0
+fetal_neurodevelopmental_state	early_program_suppression_ambiguous	dn	0.715242547925852	0.653206811423819	0	0	0	0	0		0	0	0	0	0
+glial_myelin_maturation	late_program_induction	up	0.712400962248154	0.668830938798666	0	0	0	0	0		0	0	0	0	0
+inflammatory_stress	injury_stress_confounder	up	0.847348777363054	0.958469103475491	1200	810	794	406	16	0.661666666666667	19	12	11	8	1
+late_synaptic_maturation	late_program_induction	up	0.69995734916973	0.708957998048726	0	0	0	0	0		0	0	0	0	0
+mitochondrial_metabolic_maturation	late_program_induction	up	0.801382313316265	0.83718609060521	0	0	0	0	0		0	0	0	0	0
+oxidative_hypoxic_stress	injury_stress_confounder	up	0.800785867907648	0.836778438197459	1047	484	476	571	8	0.454632282712512	16	6	6	10	0
