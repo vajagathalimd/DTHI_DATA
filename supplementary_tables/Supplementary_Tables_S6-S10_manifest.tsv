@@ -1,0 +1,6 @@
+supplementary_table	public_filename	canonical_source	description	rows
+S6	Supplementary_Table_S6_final_CMAP_LINCS_chemical_evidence_atlas.tsv	07_tables/main_tables/phase6/phase6F5_final_chemical_evidence_atlas.tsv	Final integrated CMAP/LINCS chemical evidence atlas	29
+S7	Supplementary_Table_S7_discovery_regulatory_evidence_atlas.tsv	07_tables/main_tables/phase7/phase7F1_final_integrated_regulatory_atlas.tsv	Final discovery-stage integrated regulatory atlas	10
+S8	Supplementary_Table_S8_all_160_cortical_map_associations.tsv	03_processed_data/functional_imaging/phase8D/phase8D3E_canonical_closure/snapshot/03_processed_data/functional_imaging/phase8D/phase8D3C_evidence_hierarchy/phase8D3C_association_evidence_hierarchy.tsv	Complete 160 prespecified cognitive and clinical cortical-map associations	160
+S9	Supplementary_Table_S9_prospective_candidates_endpoints_and_gates.tsv	Phase10A frozen candidate TF, module-direction, endpoint and gate tables	Original prospective validation candidates, expected directions, primary endpoints and G01-G07 gates	30
+S10	Supplementary_Table_S10_final_spatial_validation_evidence.tsv	Phase10B6 cross-platform closure + Phase10B7 gate/endpoint reconciliation	Final spatial validation synthesis and prospective spatial gate reconciliation	26
