@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated DTHI repository and manuscript."
+title: "DTHI_DATA: Reproducibility and derived-data repository for the Developmental Transcriptomic Hierarchy study"
+type: dataset
+authors:
+  - family-names: "Mohammed"
+    given-names: "Vajagathali"
+    email: "vajagathali.mohammed@dbb.su.se"
+    affiliation: "Department of Biochemistry and Biophysics, Stockholm University"
+version: "1.0.0"
+date-released: "2026-09-15"
+repository-code: "https://github.com/vajagathalimd/DTHI_DATA"
+url: "https://github.com/vajagathalimd/DTHI_DATA"
+keywords:
+  - transcriptomics
+  - human cortical development
+  - developmental transcriptomic hierarchy
+  - spatial transcriptomics
+  - regulatory genomics
+  - perturbational transcriptomics
+  - reproducibility
+license: "CC-BY-4.0"
