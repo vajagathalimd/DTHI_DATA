@@ -1,0 +1,8 @@
+external_validation_component	component_status	TF	external_testable	external_attribute	directional_signature_available	up_attribute	down_attribute	up_DE_genes	down_DE_genes	CellOracle_dominant_module	CellOracle_KO_shift	expected_external_direction	expected_module_external_overlap	expected_module_external_odds_ratio	expected_module_external_BH_q	external_top_module	external_top_direction	external_top_BH_q	G07_TF_support	RFX_shared_nonindependent	gate	independent_external_support_units	support_units	G07_status	candidate_reselection	posthoc_rescue
+candidate_external_testability	canonical_rows_present	NKX2-2	True	5691_NKX2-2_P1P2	True	5691_NKX2-2_P1P2		26.0	0.0																	
+candidate_external_testability	canonical_rows_present	RFX5	True	7262_RFX5_P1P2	False			0.0	0.0																	
+candidate_external_testability	canonical_rows_present	RFXANK	True	7266_RFXANK_P1P2	False			0.0	0.0																	
+candidate_external_support	canonical_rows_present	NKX2-2	True	5691_NKX2-2_P1P2	True					synaptic_membrane_structural_candidates	-0.0325002434427996	DOWN	0.0		1.0	patterning_arealization	UP	1.0	False	False						
+candidate_external_support	canonical_rows_present	RFX5	True	7262_RFX5_P1P2	False					synaptic_membrane_structural_candidates	0.0009838506367088	UP	0.0		1.0	patterning_arealization	UP	1.0	False	True						
+candidate_external_support	canonical_rows_present	RFXANK	True	7266_RFXANK_P1P2	False					astrocyte_maturation_metabolic_support	-0.0015603119667943	DOWN	0.0		1.0	patterning_arealization	UP	1.0	False	True						
+G07_status	canonical_rows_present																				G07	0.0		NOT_PASSED_AS_PRESPECIFIED	False	False

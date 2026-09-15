@@ -1,0 +1,47 @@
+environment_type	software_or_resource	version	analytical_role
+Operating system	Ubuntu	24.04.4 LTS	General analysis environment
+R	R	4.3.3	Developmental trajectory and enrichment analyses
+R	data.table	1.18.4	Developmental trajectory analyses
+R	ggplot2	4.0.3	Visualization
+R	dplyr	1.2.1	Data manipulation
+R	tidyr	1.3.2	Data manipulation
+R	purrr	1.2.2	Data manipulation
+R	readr	2.2.0	Table import
+R	stringr	1.6.0	String processing
+R	tibble	3.3.1	Table handling
+R	forcats	1.0.1	Factor handling
+R	msigdbr	26.1.0	MSigDB gene-set access
+Resource	MSigDB	2026.1.Hs	Functional enrichment
+Python	Python	3.13.5	Independent statistical verification
+Python	NumPy	2.3.3	Independent verification
+Python	pandas	2.3.3	Independent verification
+Python	SciPy	1.18.0	Independent verification
+Python	Python	3.12.13	Perturbational transcriptomics
+Python	NumPy	2.5.1	Perturbational transcriptomics
+Python	pandas	2.3.3	Perturbational transcriptomics
+Python	SciPy	1.18.0	Perturbational transcriptomics
+Python	h5py	3.16.0	Perturbational transcriptomics
+Python	Matplotlib	3.11.0	Perturbational transcriptomics
+Python	scikit-learn	1.8.0	Perturbational transcriptomics
+Python	anndata	0.12.19	Perturbational transcriptomics
+Python	Python	3.11	Imaging transcriptomics
+Python	NumPy	1.26.4	Imaging transcriptomics
+Python	pandas	3.0.5	Imaging transcriptomics
+Python	SciPy	1.17.1	Imaging transcriptomics
+Python	Matplotlib	3.11.1	Imaging transcriptomics
+Python	scikit-learn	1.8.0	Imaging transcriptomics
+Python	NiBabel	5.4.2	Neuroimaging
+Python	Nilearn	0.13.1	Neuroimaging
+Python	neuromaps	0.0.7	Spatial mapping
+Python	NiMARE	0.20.0	Meta-analytic cognitive maps
+Python	ENIGMA Toolbox	2.0.3	Clinical cortical maps
+R	decoupleR	2.8.0	Regulatory inference
+Python	SCENIC+	1.0a2	Multiome regulatory analysis
+Git commit	SCENIC+	86fa25e6819919e2a824c14f7fd0d6e01e257ae9	Pinned SCENIC+ source
+Python	CellOracle	0.20.0	Virtual perturbation
+Python	Python	3.10.20	CellOracle environment
+R	scTenifoldKnk	1.0.3	Virtual perturbation
+R	scTenifoldNet	1.4	Virtual perturbation
+R	R	4.4.3	scTenifold environment
+Software	limma	not_retained	Exact package version not retained in final audit
+Software	FIMO	not_retained	Exact executable version not retained in final audit

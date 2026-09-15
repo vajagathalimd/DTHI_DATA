@@ -1,0 +1,32 @@
+regulatory_component	component_status	prospective_rank	tf_symbol	RNA_feature_present_after_general_harmonization	RNA_locked_filter_pass	RNA_donors_CPM_ge_1	strict_G05_TF01_motif_resolved	TF01_and_RNA_preprocessing_preconditions_both_met	candidate_reselected	candidate_specific_rescue_used	E05_support_tested	G05_support_counted	candidate	candidate_peaks	unique_candidate_peaks	present_in_P2_ATAC	absent_from_P2_ATAC	complete_P2_ATAC_coverage	component_A_testable	exact_signflip_p	BH_q	positive_donors	positive_LODO_runs	component_A_pass	RFX_shared_evidence	source_relative_path	interpretation	TF	direct_eRegulon_links	fraction_links_same_sign_at_least_7_of_8_LODO	median_same_sign_LODO_runs	cell_class	groups	Gene_AUC_mean	Gene_AUC_median	Region_AUC_mean	Region_AUC_median
+candidate_preconditions	canonical_rows_present	1.0	FOXO6	True	True	8.0	True	True	False	False	False	False																									
+candidate_preconditions	canonical_rows_present	2.0	NKX2-2	True	True	7.0	True	True	False	False	False	False																									
+candidate_preconditions	canonical_rows_present	3.0	NFKBIB	True	True	8.0	False	False	False	False	False	False																									
+candidate_preconditions	canonical_rows_present	4.0	HOXA10	True	False	0.0	True	False	False	False	False	False																									
+candidate_preconditions	canonical_rows_present	5.0	CEBPA	True	False	3.0	True	False	False	False	False	False																									
+candidate_preconditions	canonical_rows_present	6.0	MYT1	True	True	6.0	False	False	False	False	False	False																									
+candidate_preconditions	canonical_rows_present	7.0	RFXANK	True	True	8.0	True	True	False	False	False	False																									
+candidate_preconditions	canonical_rows_present	8.0	RFX5	True	True	8.0	True	True	False	False	False	False																									
+candidate_cistrome_P2_coverage	canonical_rows_present												NKX2-2	25237.0	25237.0	25237.0	0.0	True																			
+candidate_cistrome_P2_coverage	canonical_rows_present												RFX5_RFXANK_SHARED	24429.0	24429.0	24429.0	0.0	True																			
+donor_level_motif_accessibility	canonical_rows_present												FOXO6						False	1.0	1.0	0.0	0.0	False	False												
+donor_level_motif_accessibility	canonical_rows_present												NKX2-2						True	1.0	1.0	4.0	4.0	False	False												
+donor_level_motif_accessibility	canonical_rows_present												NFKBIB						False	1.0	1.0	0.0	0.0	False	False												
+donor_level_motif_accessibility	canonical_rows_present												HOXA10						False	1.0	1.0	0.0	0.0	False	False												
+donor_level_motif_accessibility	canonical_rows_present												CEBPA						False	1.0	1.0	0.0	0.0	False	False												
+donor_level_motif_accessibility	canonical_rows_present												MYT1						False	1.0	1.0	0.0	0.0	False	False												
+donor_level_motif_accessibility	canonical_rows_present												RFXANK						True	1.0	1.0	4.0	4.0	False	True												
+donor_level_motif_accessibility	canonical_rows_present												RFX5						True	1.0	1.0	4.0	4.0	False	True												
+direct_eRegulon_summary	canonical_output_empty_no_rows																									12_validation_package/phase10C_multiome_regulatory_validation/phase10C_regulatory_completion_canonical_lock/phase10C_direct_eRegulon_summary.tsv	Canonical source file contained no tabular rows.										
+direct_eRegulon_LODO	canonical_rows_present																											NKX2-2	0.0								
+direct_eRegulon_LODO	canonical_rows_present																											RFXANK	0.0								
+direct_eRegulon_LODO	canonical_rows_present																											RFX5	0.0								
+TF_eRegulon_activity_cell_class	canonical_rows_present																											NKX2-2				Neuron	8.0				
+TF_eRegulon_activity_cell_class	canonical_rows_present																											NKX2-2				Oligo	6.0				
+TF_eRegulon_activity_cell_class	canonical_rows_present																											NKX2-2				Radial_glia	8.0				
+TF_eRegulon_activity_cell_class	canonical_rows_present																											RFX5				Neuron	8.0				
+TF_eRegulon_activity_cell_class	canonical_rows_present																											RFX5				Oligo	6.0				
+TF_eRegulon_activity_cell_class	canonical_rows_present																											RFX5				Radial_glia	8.0				
+TF_eRegulon_activity_cell_class	canonical_rows_present																											RFXANK				Neuron	8.0				
+TF_eRegulon_activity_cell_class	canonical_rows_present																											RFXANK				Oligo	6.0				
+TF_eRegulon_activity_cell_class	canonical_rows_present																											RFXANK				Radial_glia	8.0				

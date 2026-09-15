@@ -1,0 +1,6 @@
+supplementary_table	public_filename	rows	description
+S11	Supplementary_Table_S11_multiome_motif_cistrome_SCENICplus_evidence.tsv	31	Multiome motif, cistrome and SCENIC+/eRegulon evidence
+S12	Supplementary_Table_S12_CellOracle_scTenifold_virtual_perturbation.tsv	674	CellOracle and scTenifold virtual perturbation evidence
+S13	Supplementary_Table_S13_external_CRISPRi_G07_testability.tsv	7	External CRISPRi/Perturb-seq testability and G07 evidence
+S14	Supplementary_Table_S14_final_validation_closure_and_claim_boundaries.tsv	18	Final G01-G07 closure and manuscript claim boundaries
+S15	Supplementary_Table_S15_software_and_environment_manifest.tsv	46	Software and environment manifest
