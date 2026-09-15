@@ -1,0 +1,4 @@
+TF	testable	reason	OE_value	KO_OE_cosine	dominant_module	dominant_module_KO_shift	dominant_module_OE_shift	donors_opposite_KO_OE	donors_tested	real_KO_module_vector_norm	randomized_GRN_KO_module_vector_norm	real_exceeds_randomized_GRN	CellOracle_reciprocal_support	RFX_shared_nonindependent
+NKX2-2	True		0.5544991323751621	-0.9117611937273868	synaptic_membrane_structural_candidates	-0.03250024344279966	0.09005512985554054	8	8	0.048687071362857284	0.010313874749722502	True	True	False
+RFX5	True		0.06045494293334881	-0.9849375027245327	synaptic_membrane_structural_candidates	0.0009838506367088617	-0.0028058448370201147	8	8	0.0014782101937975427	0.00022883390589921855	True	True	True
+RFXANK	True		0.08418685643305815	-0.9725326530426068	astrocyte_maturation_metabolic_support	-0.0015603119667943024	0.007704129499267813	8	8	0.002378872698666692	0.0006089888179417237	True	True	True

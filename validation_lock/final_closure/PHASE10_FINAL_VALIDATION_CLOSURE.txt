@@ -1,0 +1,42 @@
+PHASE 10 FINAL VALIDATION CLOSURE
+
+Prospective validation workflow: COMPLETE
+
+G01: NOT_PASSED_AS_PRESPECIFIED
+G02: NOT_PASSED_AS_PRESPECIFIED
+G03: NOT_PASSED_AS_PRESPECIFIED
+G04: NOT_PASSED_AS_PRESPECIFIED
+G05: NOT_PASSED_AS_PRESPECIFIED
+G06: NOT_PASSED_AS_PRESPECIFIED
+G07: NOT_PASSED_AS_PRESPECIFIED
+
+Prospective gates passed: 0/7
+Strict convergent regulators: 0
+
+Frozen candidate TFs:
+- NKX2-2
+- RFX5
+- RFXANK
+
+Interpretive closure:
+The completed prospective validation package did not produce an
+independently validated strict convergent regulator under the frozen
+G01-G07 criteria.
+
+This does not convert candidate-level supportive evidence into a null
+finding. CellOracle reciprocal perturbation predictions remain
+supportive computational observations, but they did not satisfy the
+required cross-method G06 criterion.
+
+External Replogle/Harmonizome perturbations were present for the frozen
+candidate TFs, but the directional signatures required for the
+candidate-specific G07 concordance tests were unavailable in the
+processed resource. This is a testability limitation and is not
+interpreted as an experimental biological null.
+
+No thresholds were relaxed.
+No candidates were reselected.
+No failed gate was rescued post hoc.
+The structural branch remains outside the validation manuscript.
+
+Phase 10 is closed and the project is ready for manuscript assembly.

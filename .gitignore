@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Environments
+.venv/
+venv/
+env/
+.figurefix_venv/
+conda-env/
+
+# Editors / OS
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+*~
+
+# Large/raw biological data
+*.h5
+*.h5ad
+*.loom
+*.mtx
+*.bam
+*.sam
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.vcf
+*.vcf.gz
+*.bigWig
+*.bw
+
+# Archives / downloaded resources
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+
+# Local machine / transient files
+logs/
+cache/
+tmp/

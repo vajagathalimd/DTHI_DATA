@@ -1,0 +1,8 @@
+gate	status	branch	prespecified_interpretation	gate_changed_posthoc
+G01	NOT_PASSED_AS_PRESPECIFIED	independent_spatial	Independent spatial module-direction replication was not established under the prespecified estimand.	False
+G02	NOT_PASSED_AS_PRESPECIFIED	independent_spatial	The required progenitor-radial-glia and synaptic-assembly joint independent spatial criterion was not established.	False
+G03	NOT_PASSED_AS_PRESPECIFIED	independent_spatial	The prespecified donor-level significance plus leave-one-donor-out robustness criterion was not met.	False
+G04	NOT_PASSED_AS_PRESPECIFIED	independent_spatial	The prespecified matched-random spatial specificity criterion was not met.	False
+G05	NOT_PASSED_AS_PRESPECIFIED	multiome_regulatory	No frozen TF achieved the prespecified direct enhancer-driven multiome regulatory support criterion.	False
+G06	NOT_PASSED_AS_PRESPECIFIED	in_silico_causal	CellOracle reciprocal perturbation support did not converge with the second perturbation method under the prespecified cross-method criterion.	False
+G07	NOT_PASSED_AS_PRESPECIFIED	external_experimental_CRISPR_Perturbseq	No independent TF axis satisfied the prespecified external directional CRISPR/Perturb-seq criterion; the expected directional signatures required for the candidate-specific tests were unavailable in the processed external resource.	False

@@ -1,0 +1,4 @@
+TF	external_testable	external_attribute	directional_signature_available	up_attribute	down_attribute	up_DE_genes	down_DE_genes
+NKX2-2	True	5691_NKX2-2_P1P2	True	5691_NKX2-2_P1P2		26	0
+RFX5	True	7262_RFX5_P1P2	False			0	0
+RFXANK	True	7266_RFXANK_P1P2	False			0	0

@@ -1,0 +1,26 @@
+{
+  "phase": "Phase10_final_validation_closure",
+  "prospective_gates_total": 7,
+  "prospective_gates_passed": 0,
+  "prospective_gates_not_passed": 7,
+  "strict_convergent_regulator_count": 0,
+  "strict_convergent_regulators": [],
+  "candidate_TFs_frozen": [
+    "NKX2-2",
+    "RFX5",
+    "RFXANK"
+  ],
+  "RFX5_RFXANK_independent": false,
+  "candidate_reselection": false,
+  "posthoc_gate_relaxation": false,
+  "posthoc_rescue": false,
+  "G05_changed": false,
+  "G06_changed": false,
+  "G07_changed": false,
+  "BlockC_R4_status": "SUPERSEDED_INVALID_MODULE_SOURCE",
+  "BlockC_canonical_version": "R5",
+  "canonical_external_universe": 7800,
+  "canonical_frozen_module_gene_pairs": 244,
+  "structural_branch_in_validation_manuscript": false,
+  "ready_for_manuscript_assembly": true
+}
