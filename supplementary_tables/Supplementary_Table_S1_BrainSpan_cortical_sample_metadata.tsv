@@ -1,0 +1,363 @@
+column_num	donor_id	donor_name	age	gender	structure_id	structure_acronym	structure_name	sample_id	age_original	age_years_approx	developmental_window	donor_clean	sex_clean	is_cortical
+1	13058	H376.IIA.51	8 pcw	M	10268	Ocx	occipital neocortex	BS_0001	8 pcw	0.1538461538461538	early_fetal_patterning	13058	M	True
+2	13058	H376.IIA.51	8 pcw	M	10291	M1C-S1C	primary motor-sensory cortex (samples)	BS_0002	8 pcw	0.1538461538461538	early_fetal_patterning	13058	M	True
+5	13058	H376.IIA.51	8 pcw	M	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0005	8 pcw	0.1538461538461538	early_fetal_patterning	13058	M	True
+9	13058	H376.IIA.51	8 pcw	M	10278	MFC	anterior (rostral) cingulate (medial prefrontal) cortex	BS_0009	8 pcw	0.1538461538461538	early_fetal_patterning	13058	M	True
+10	13058	H376.IIA.51	8 pcw	M	10173	DFC	dorsolateral prefrontal cortex	BS_0010	8 pcw	0.1538461538461538	early_fetal_patterning	13058	M	True
+11	13058	H376.IIA.51	8 pcw	M	10194	OFC	orbital frontal cortex	BS_0011	8 pcw	0.1538461538461538	early_fetal_patterning	13058	M	True
+13	13058	H376.IIA.51	8 pcw	M	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0013	8 pcw	0.1538461538461538	early_fetal_patterning	13058	M	True
+15	13058	H376.IIA.51	8 pcw	M	10185	VFC	ventrolateral prefrontal cortex	BS_0015	8 pcw	0.1538461538461538	early_fetal_patterning	13058	M	True
+16	13058	H376.IIA.51	8 pcw	M	10208	PCx	parietal neocortex	BS_0016	8 pcw	0.1538461538461538	early_fetal_patterning	13058	M	True
+17	12833	H376.IIA.50	9 pcw	M	10173	DFC	dorsolateral prefrontal cortex	BS_0017	9 pcw	0.173076923076923	early_fetal_patterning	12833	M	True
+18	12833	H376.IIA.50	9 pcw	M	10278	MFC	anterior (rostral) cingulate (medial prefrontal) cortex	BS_0018	9 pcw	0.173076923076923	early_fetal_patterning	12833	M	True
+23	12833	H376.IIA.50	9 pcw	M	10291	M1C-S1C	primary motor-sensory cortex (samples)	BS_0023	9 pcw	0.173076923076923	early_fetal_patterning	12833	M	True
+25	12833	H376.IIA.50	9 pcw	M	10235	TCx	temporal neocortex	BS_0025	9 pcw	0.173076923076923	early_fetal_patterning	12833	M	True
+27	12833	H376.IIA.50	9 pcw	M	10268	Ocx	occipital neocortex	BS_0027	9 pcw	0.173076923076923	early_fetal_patterning	12833	M	True
+29	12833	H376.IIA.50	9 pcw	M	10194	OFC	orbital frontal cortex	BS_0029	9 pcw	0.173076923076923	early_fetal_patterning	12833	M	True
+30	12833	H376.IIA.50	9 pcw	M	10208	PCx	parietal neocortex	BS_0030	9 pcw	0.173076923076923	early_fetal_patterning	12833	M	True
+34	12835	H376.IIB.50	12 pcw	F	10236	A1C	primary auditory cortex (core)	BS_0034	12 pcw	0.2307692307692307	early_fetal_patterning	12835	F	True
+35	12835	H376.IIB.50	12 pcw	F	10269	V1C	primary visual cortex (striate cortex, area V1/17)	BS_0035	12 pcw	0.2307692307692307	early_fetal_patterning	12835	F	True
+36	12835	H376.IIB.50	12 pcw	F	10278	MFC	anterior (rostral) cingulate (medial prefrontal) cortex	BS_0036	12 pcw	0.2307692307692307	early_fetal_patterning	12835	F	True
+38	12835	H376.IIB.50	12 pcw	F	10163	M1C	primary motor cortex (area M1, area 4)	BS_0038	12 pcw	0.2307692307692307	early_fetal_patterning	12835	F	True
+39	12835	H376.IIB.50	12 pcw	F	10173	DFC	dorsolateral prefrontal cortex	BS_0039	12 pcw	0.2307692307692307	early_fetal_patterning	12835	F	True
+40	12835	H376.IIB.50	12 pcw	F	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0040	12 pcw	0.2307692307692307	early_fetal_patterning	12835	F	True
+41	12835	H376.IIB.50	12 pcw	F	10185	VFC	ventrolateral prefrontal cortex	BS_0041	12 pcw	0.2307692307692307	early_fetal_patterning	12835	F	True
+42	12835	H376.IIB.50	12 pcw	F	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0042	12 pcw	0.2307692307692307	early_fetal_patterning	12835	F	True
+43	12835	H376.IIB.50	12 pcw	F	10225	IPC	posteroventral (inferior) parietal cortex	BS_0043	12 pcw	0.2307692307692307	early_fetal_patterning	12835	F	True
+44	12835	H376.IIB.50	12 pcw	F	10194	OFC	orbital frontal cortex	BS_0044	12 pcw	0.2307692307692307	early_fetal_patterning	12835	F	True
+45	12835	H376.IIB.50	12 pcw	F	10209	S1C	primary somatosensory cortex (area S1, areas 3,1,2)	BS_0045	12 pcw	0.2307692307692307	early_fetal_patterning	12835	F	True
+46	12960	H376.IIB.51	12 pcw	F	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0046	12 pcw	0.2307692307692307	early_fetal_patterning	12960	F	True
+47	12960	H376.IIB.51	12 pcw	F	10269	V1C	primary visual cortex (striate cortex, area V1/17)	BS_0047	12 pcw	0.2307692307692307	early_fetal_patterning	12960	F	True
+48	12960	H376.IIB.51	12 pcw	F	10236	A1C	primary auditory cortex (core)	BS_0048	12 pcw	0.2307692307692307	early_fetal_patterning	12960	F	True
+50	12960	H376.IIB.51	12 pcw	F	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0050	12 pcw	0.2307692307692307	early_fetal_patterning	12960	F	True
+51	12960	H376.IIB.51	12 pcw	F	10225	IPC	posteroventral (inferior) parietal cortex	BS_0051	12 pcw	0.2307692307692307	early_fetal_patterning	12960	F	True
+52	12960	H376.IIB.51	12 pcw	F	10209	S1C	primary somatosensory cortex (area S1, areas 3,1,2)	BS_0052	12 pcw	0.2307692307692307	early_fetal_patterning	12960	F	True
+55	12960	H376.IIB.51	12 pcw	F	10173	DFC	dorsolateral prefrontal cortex	BS_0055	12 pcw	0.2307692307692307	early_fetal_patterning	12960	F	True
+56	12960	H376.IIB.51	12 pcw	F	10194	OFC	orbital frontal cortex	BS_0056	12 pcw	0.2307692307692307	early_fetal_patterning	12960	F	True
+57	12960	H376.IIB.51	12 pcw	F	10163	M1C	primary motor cortex (area M1, area 4)	BS_0057	12 pcw	0.2307692307692307	early_fetal_patterning	12960	F	True
+58	12960	H376.IIB.51	12 pcw	F	10185	VFC	ventrolateral prefrontal cortex	BS_0058	12 pcw	0.2307692307692307	early_fetal_patterning	12960	F	True
+62	13060	H376.IIB.52	12 pcw	F	10163	M1C	primary motor cortex (area M1, area 4)	BS_0062	12 pcw	0.2307692307692307	early_fetal_patterning	13060	F	True
+63	13060	H376.IIB.52	12 pcw	F	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0063	12 pcw	0.2307692307692307	early_fetal_patterning	13060	F	True
+64	13060	H376.IIB.52	12 pcw	F	10185	VFC	ventrolateral prefrontal cortex	BS_0064	12 pcw	0.2307692307692307	early_fetal_patterning	13060	F	True
+68	13060	H376.IIB.52	12 pcw	F	10173	DFC	dorsolateral prefrontal cortex	BS_0068	12 pcw	0.2307692307692307	early_fetal_patterning	13060	F	True
+69	13060	H376.IIB.52	12 pcw	F	10194	OFC	orbital frontal cortex	BS_0069	12 pcw	0.2307692307692307	early_fetal_patterning	13060	F	True
+70	13060	H376.IIB.52	12 pcw	F	10209	S1C	primary somatosensory cortex (area S1, areas 3,1,2)	BS_0070	12 pcw	0.2307692307692307	early_fetal_patterning	13060	F	True
+71	13060	H376.IIB.52	12 pcw	F	10269	V1C	primary visual cortex (striate cortex, area V1/17)	BS_0071	12 pcw	0.2307692307692307	early_fetal_patterning	13060	F	True
+72	13060	H376.IIB.52	12 pcw	F	10278	MFC	anterior (rostral) cingulate (medial prefrontal) cortex	BS_0072	12 pcw	0.2307692307692307	early_fetal_patterning	13060	F	True
+74	13060	H376.IIB.52	12 pcw	F	10225	IPC	posteroventral (inferior) parietal cortex	BS_0074	12 pcw	0.2307692307692307	early_fetal_patterning	13060	F	True
+75	13060	H376.IIB.52	12 pcw	F	10236	A1C	primary auditory cortex (core)	BS_0075	12 pcw	0.2307692307692307	early_fetal_patterning	13060	F	True
+77	12820	H376.IIIA.50	13 pcw	M	10163	M1C	primary motor cortex (area M1, area 4)	BS_0077	13 pcw	0.25	early_fetal_patterning	12820	M	True
+79	12820	H376.IIIA.50	13 pcw	M	10209	S1C	primary somatosensory cortex (area S1, areas 3,1,2)	BS_0079	13 pcw	0.25	early_fetal_patterning	12820	M	True
+80	12820	H376.IIIA.50	13 pcw	M	10269	V1C	primary visual cortex (striate cortex, area V1/17)	BS_0080	13 pcw	0.25	early_fetal_patterning	12820	M	True
+81	12820	H376.IIIA.50	13 pcw	M	10236	A1C	primary auditory cortex (core)	BS_0081	13 pcw	0.25	early_fetal_patterning	12820	M	True
+83	12820	H376.IIIA.50	13 pcw	M	10185	VFC	ventrolateral prefrontal cortex	BS_0083	13 pcw	0.25	early_fetal_patterning	12820	M	True
+84	12820	H376.IIIA.50	13 pcw	M	10278	MFC	anterior (rostral) cingulate (medial prefrontal) cortex	BS_0084	13 pcw	0.25	early_fetal_patterning	12820	M	True
+85	12820	H376.IIIA.50	13 pcw	M	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0085	13 pcw	0.25	early_fetal_patterning	12820	M	True
+86	12820	H376.IIIA.50	13 pcw	M	10194	OFC	orbital frontal cortex	BS_0086	13 pcw	0.25	early_fetal_patterning	12820	M	True
+87	12820	H376.IIIA.50	13 pcw	M	10225	IPC	posteroventral (inferior) parietal cortex	BS_0087	13 pcw	0.25	early_fetal_patterning	12820	M	True
+88	12820	H376.IIIA.50	13 pcw	M	10173	DFC	dorsolateral prefrontal cortex	BS_0088	13 pcw	0.25	early_fetal_patterning	12820	M	True
+89	12820	H376.IIIA.50	13 pcw	M	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0089	13 pcw	0.25	early_fetal_patterning	12820	M	True
+91	12834	H376.IIIA.51	13 pcw	F	10209	S1C	primary somatosensory cortex (area S1, areas 3,1,2)	BS_0091	13 pcw	0.25	early_fetal_patterning	12834	F	True
+92	12834	H376.IIIA.51	13 pcw	F	10269	V1C	primary visual cortex (striate cortex, area V1/17)	BS_0092	13 pcw	0.25	early_fetal_patterning	12834	F	True
+94	12834	H376.IIIA.51	13 pcw	F	10225	IPC	posteroventral (inferior) parietal cortex	BS_0094	13 pcw	0.25	early_fetal_patterning	12834	F	True
+96	12834	H376.IIIA.51	13 pcw	F	10173	DFC	dorsolateral prefrontal cortex	BS_0096	13 pcw	0.25	early_fetal_patterning	12834	F	True
+97	12834	H376.IIIA.51	13 pcw	F	10194	OFC	orbital frontal cortex	BS_0097	13 pcw	0.25	early_fetal_patterning	12834	F	True
+98	12834	H376.IIIA.51	13 pcw	F	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0098	13 pcw	0.25	early_fetal_patterning	12834	F	True
+99	12834	H376.IIIA.51	13 pcw	F	10236	A1C	primary auditory cortex (core)	BS_0099	13 pcw	0.25	early_fetal_patterning	12834	F	True
+101	12834	H376.IIIA.51	13 pcw	F	10163	M1C	primary motor cortex (area M1, area 4)	BS_0101	13 pcw	0.25	early_fetal_patterning	12834	F	True
+102	12834	H376.IIIA.51	13 pcw	F	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0102	13 pcw	0.25	early_fetal_patterning	12834	F	True
+104	12834	H376.IIIA.51	13 pcw	F	10278	MFC	anterior (rostral) cingulate (medial prefrontal) cortex	BS_0104	13 pcw	0.25	early_fetal_patterning	12834	F	True
+105	12834	H376.IIIA.51	13 pcw	F	10185	VFC	ventrolateral prefrontal cortex	BS_0105	13 pcw	0.25	early_fetal_patterning	12834	F	True
+106	12888	H376.IIIA.52	13 pcw	M	10209	S1C	primary somatosensory cortex (area S1, areas 3,1,2)	BS_0106	13 pcw	0.25	early_fetal_patterning	12888	M	True
+107	12888	H376.IIIA.52	13 pcw	M	10173	DFC	dorsolateral prefrontal cortex	BS_0107	13 pcw	0.25	early_fetal_patterning	12888	M	True
+110	12888	H376.IIIA.52	13 pcw	M	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0110	13 pcw	0.25	early_fetal_patterning	12888	M	True
+112	12888	H376.IIIA.52	13 pcw	M	10225	IPC	posteroventral (inferior) parietal cortex	BS_0112	13 pcw	0.25	early_fetal_patterning	12888	M	True
+113	12888	H376.IIIA.52	13 pcw	M	10236	A1C	primary auditory cortex (core)	BS_0113	13 pcw	0.25	early_fetal_patterning	12888	M	True
+114	12888	H376.IIIA.52	13 pcw	M	10185	VFC	ventrolateral prefrontal cortex	BS_0114	13 pcw	0.25	early_fetal_patterning	12888	M	True
+116	12888	H376.IIIA.52	13 pcw	M	10194	OFC	orbital frontal cortex	BS_0116	13 pcw	0.25	early_fetal_patterning	12888	M	True
+117	12888	H376.IIIA.52	13 pcw	M	10278	MFC	anterior (rostral) cingulate (medial prefrontal) cortex	BS_0117	13 pcw	0.25	early_fetal_patterning	12888	M	True
+118	12888	H376.IIIA.52	13 pcw	M	10269	V1C	primary visual cortex (striate cortex, area V1/17)	BS_0118	13 pcw	0.25	early_fetal_patterning	12888	M	True
+119	12888	H376.IIIA.52	13 pcw	M	10163	M1C	primary motor cortex (area M1, area 4)	BS_0119	13 pcw	0.25	early_fetal_patterning	12888	M	True
+120	12287	H376.IIIB.50	16 pcw	M	10185	VFC	ventrolateral prefrontal cortex	BS_0120	16 pcw	0.3076923076923077	mid_fetal_neurogenesis	12287	M	True
+121	12287	H376.IIIB.50	16 pcw	M	10194	OFC	orbital frontal cortex	BS_0121	16 pcw	0.3076923076923077	mid_fetal_neurogenesis	12287	M	True
+122	12287	H376.IIIB.50	16 pcw	M	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0122	16 pcw	0.3076923076923077	mid_fetal_neurogenesis	12287	M	True
+123	12287	H376.IIIB.50	16 pcw	M	10173	DFC	dorsolateral prefrontal cortex	BS_0123	16 pcw	0.3076923076923077	mid_fetal_neurogenesis	12287	M	True
+124	12287	H376.IIIB.50	16 pcw	M	10225	IPC	posteroventral (inferior) parietal cortex	BS_0124	16 pcw	0.3076923076923077	mid_fetal_neurogenesis	12287	M	True
+125	12287	H376.IIIB.50	16 pcw	M	10236	A1C	primary auditory cortex (core)	BS_0125	16 pcw	0.3076923076923077	mid_fetal_neurogenesis	12287	M	True
+126	12287	H376.IIIB.50	16 pcw	M	10278	MFC	anterior (rostral) cingulate (medial prefrontal) cortex	BS_0126	16 pcw	0.3076923076923077	mid_fetal_neurogenesis	12287	M	True
+129	12287	H376.IIIB.50	16 pcw	M	10269	V1C	primary visual cortex (striate cortex, area V1/17)	BS_0129	16 pcw	0.3076923076923077	mid_fetal_neurogenesis	12287	M	True
+130	12837	H376.IIIB.51	16 pcw	M	10185	VFC	ventrolateral prefrontal cortex	BS_0130	16 pcw	0.3076923076923077	mid_fetal_neurogenesis	12837	M	True
+131	12837	H376.IIIB.51	16 pcw	M	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0131	16 pcw	0.3076923076923077	mid_fetal_neurogenesis	12837	M	True
+132	12837	H376.IIIB.51	16 pcw	M	10225	IPC	posteroventral (inferior) parietal cortex	BS_0132	16 pcw	0.3076923076923077	mid_fetal_neurogenesis	12837	M	True
+133	12837	H376.IIIB.51	16 pcw	M	10236	A1C	primary auditory cortex (core)	BS_0133	16 pcw	0.3076923076923077	mid_fetal_neurogenesis	12837	M	True
+136	12837	H376.IIIB.51	16 pcw	M	10269	V1C	primary visual cortex (striate cortex, area V1/17)	BS_0136	16 pcw	0.3076923076923077	mid_fetal_neurogenesis	12837	M	True
+137	12837	H376.IIIB.51	16 pcw	M	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0137	16 pcw	0.3076923076923077	mid_fetal_neurogenesis	12837	M	True
+141	12837	H376.IIIB.51	16 pcw	M	10194	OFC	orbital frontal cortex	BS_0141	16 pcw	0.3076923076923077	mid_fetal_neurogenesis	12837	M	True
+142	12837	H376.IIIB.51	16 pcw	M	10173	DFC	dorsolateral prefrontal cortex	BS_0142	16 pcw	0.3076923076923077	mid_fetal_neurogenesis	12837	M	True
+143	12837	H376.IIIB.51	16 pcw	M	10163	M1C	primary motor cortex (area M1, area 4)	BS_0143	16 pcw	0.3076923076923077	mid_fetal_neurogenesis	12837	M	True
+144	12837	H376.IIIB.51	16 pcw	M	10278	MFC	anterior (rostral) cingulate (medial prefrontal) cortex	BS_0144	16 pcw	0.3076923076923077	mid_fetal_neurogenesis	12837	M	True
+145	12837	H376.IIIB.51	16 pcw	M	10209	S1C	primary somatosensory cortex (area S1, areas 3,1,2)	BS_0145	16 pcw	0.3076923076923077	mid_fetal_neurogenesis	12837	M	True
+147	12879	H376.IIIB.52	16 pcw	M	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0147	16 pcw	0.3076923076923077	mid_fetal_neurogenesis	12879	M	True
+148	12879	H376.IIIB.52	16 pcw	M	10173	DFC	dorsolateral prefrontal cortex	BS_0148	16 pcw	0.3076923076923077	mid_fetal_neurogenesis	12879	M	True
+149	12879	H376.IIIB.52	16 pcw	M	10225	IPC	posteroventral (inferior) parietal cortex	BS_0149	16 pcw	0.3076923076923077	mid_fetal_neurogenesis	12879	M	True
+150	12879	H376.IIIB.52	16 pcw	M	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0150	16 pcw	0.3076923076923077	mid_fetal_neurogenesis	12879	M	True
+151	12879	H376.IIIB.52	16 pcw	M	10269	V1C	primary visual cortex (striate cortex, area V1/17)	BS_0151	16 pcw	0.3076923076923077	mid_fetal_neurogenesis	12879	M	True
+154	12879	H376.IIIB.52	16 pcw	M	10291	M1C-S1C	primary motor-sensory cortex (samples)	BS_0154	16 pcw	0.3076923076923077	mid_fetal_neurogenesis	12879	M	True
+155	12879	H376.IIIB.52	16 pcw	M	10236	A1C	primary auditory cortex (core)	BS_0155	16 pcw	0.3076923076923077	mid_fetal_neurogenesis	12879	M	True
+156	12879	H376.IIIB.52	16 pcw	M	10185	VFC	ventrolateral prefrontal cortex	BS_0156	16 pcw	0.3076923076923077	mid_fetal_neurogenesis	12879	M	True
+158	12879	H376.IIIB.52	16 pcw	M	10278	MFC	anterior (rostral) cingulate (medial prefrontal) cortex	BS_0158	16 pcw	0.3076923076923077	mid_fetal_neurogenesis	12879	M	True
+160	12880	H376.IIIB.53	17 pcw	F	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0160	17 pcw	0.3269230769230769	mid_fetal_neurogenesis	12880	F	True
+162	12880	H376.IIIB.53	17 pcw	F	10236	A1C	primary auditory cortex (core)	BS_0162	17 pcw	0.3269230769230769	mid_fetal_neurogenesis	12880	F	True
+164	12880	H376.IIIB.53	17 pcw	F	10173	DFC	dorsolateral prefrontal cortex	BS_0164	17 pcw	0.3269230769230769	mid_fetal_neurogenesis	12880	F	True
+165	12880	H376.IIIB.53	17 pcw	F	10185	VFC	ventrolateral prefrontal cortex	BS_0165	17 pcw	0.3269230769230769	mid_fetal_neurogenesis	12880	F	True
+166	12880	H376.IIIB.53	17 pcw	F	10225	IPC	posteroventral (inferior) parietal cortex	BS_0166	17 pcw	0.3269230769230769	mid_fetal_neurogenesis	12880	F	True
+167	12880	H376.IIIB.53	17 pcw	F	10291	M1C-S1C	primary motor-sensory cortex (samples)	BS_0167	17 pcw	0.3269230769230769	mid_fetal_neurogenesis	12880	F	True
+168	12880	H376.IIIB.53	17 pcw	F	10269	V1C	primary visual cortex (striate cortex, area V1/17)	BS_0168	17 pcw	0.3269230769230769	mid_fetal_neurogenesis	12880	F	True
+170	12880	H376.IIIB.53	17 pcw	F	10194	OFC	orbital frontal cortex	BS_0170	17 pcw	0.3269230769230769	mid_fetal_neurogenesis	12880	F	True
+172	12880	H376.IIIB.53	17 pcw	F	10278	MFC	anterior (rostral) cingulate (medial prefrontal) cortex	BS_0172	17 pcw	0.3269230769230769	mid_fetal_neurogenesis	12880	F	True
+173	12885	H376.IV.53	19 pcw	F	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0173	19 pcw	0.3653846153846153	mid_fetal_neurogenesis	12885	F	True
+174	12885	H376.IV.53	19 pcw	F	10225	IPC	posteroventral (inferior) parietal cortex	BS_0174	19 pcw	0.3653846153846153	mid_fetal_neurogenesis	12885	F	True
+175	12885	H376.IV.53	19 pcw	F	10291	M1C-S1C	primary motor-sensory cortex (samples)	BS_0175	19 pcw	0.3653846153846153	mid_fetal_neurogenesis	12885	F	True
+176	12885	H376.IV.53	19 pcw	F	10278	MFC	anterior (rostral) cingulate (medial prefrontal) cortex	BS_0176	19 pcw	0.3653846153846153	mid_fetal_neurogenesis	12885	F	True
+177	12885	H376.IV.53	19 pcw	F	10269	V1C	primary visual cortex (striate cortex, area V1/17)	BS_0177	19 pcw	0.3653846153846153	mid_fetal_neurogenesis	12885	F	True
+179	12885	H376.IV.53	19 pcw	F	10236	A1C	primary auditory cortex (core)	BS_0179	19 pcw	0.3653846153846153	mid_fetal_neurogenesis	12885	F	True
+181	12885	H376.IV.53	19 pcw	F	10185	VFC	ventrolateral prefrontal cortex	BS_0181	19 pcw	0.3653846153846153	mid_fetal_neurogenesis	12885	F	True
+183	12885	H376.IV.53	19 pcw	F	10173	DFC	dorsolateral prefrontal cortex	BS_0183	19 pcw	0.3653846153846153	mid_fetal_neurogenesis	12885	F	True
+185	12365	H376.IV.51	21 pcw	F	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0185	21 pcw	0.4038461538461538	mid_fetal_neurogenesis	12365	F	True
+186	12886	H376.IV.54	21 pcw	M	10278	MFC	anterior (rostral) cingulate (medial prefrontal) cortex	BS_0186	21 pcw	0.4038461538461538	mid_fetal_neurogenesis	12886	M	True
+187	12886	H376.IV.54	21 pcw	M	10163	M1C	primary motor cortex (area M1, area 4)	BS_0187	21 pcw	0.4038461538461538	mid_fetal_neurogenesis	12886	M	True
+190	12886	H376.IV.54	21 pcw	M	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0190	21 pcw	0.4038461538461538	mid_fetal_neurogenesis	12886	M	True
+191	12886	H376.IV.54	21 pcw	M	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0191	21 pcw	0.4038461538461538	mid_fetal_neurogenesis	12886	M	True
+193	12886	H376.IV.54	21 pcw	M	10185	VFC	ventrolateral prefrontal cortex	BS_0193	21 pcw	0.4038461538461538	mid_fetal_neurogenesis	12886	M	True
+194	12886	H376.IV.54	21 pcw	M	10194	OFC	orbital frontal cortex	BS_0194	21 pcw	0.4038461538461538	mid_fetal_neurogenesis	12886	M	True
+195	12886	H376.IV.54	21 pcw	M	10269	V1C	primary visual cortex (striate cortex, area V1/17)	BS_0195	21 pcw	0.4038461538461538	mid_fetal_neurogenesis	12886	M	True
+196	12886	H376.IV.54	21 pcw	M	10209	S1C	primary somatosensory cortex (area S1, areas 3,1,2)	BS_0196	21 pcw	0.4038461538461538	mid_fetal_neurogenesis	12886	M	True
+198	12886	H376.IV.54	21 pcw	M	10225	IPC	posteroventral (inferior) parietal cortex	BS_0198	21 pcw	0.4038461538461538	mid_fetal_neurogenesis	12886	M	True
+199	12886	H376.IV.54	21 pcw	M	10173	DFC	dorsolateral prefrontal cortex	BS_0199	21 pcw	0.4038461538461538	mid_fetal_neurogenesis	12886	M	True
+202	12288	H376.IV.50	24 pcw	M	10173	DFC	dorsolateral prefrontal cortex	BS_0202	24 pcw	0.4615384615384615	mid_fetal_neurogenesis	12288	M	True
+203	12288	H376.IV.50	24 pcw	M	10209	S1C	primary somatosensory cortex (area S1, areas 3,1,2)	BS_0203	24 pcw	0.4615384615384615	mid_fetal_neurogenesis	12288	M	True
+206	12288	H376.IV.50	24 pcw	M	10236	A1C	primary auditory cortex (core)	BS_0206	24 pcw	0.4615384615384615	mid_fetal_neurogenesis	12288	M	True
+207	12288	H376.IV.50	24 pcw	M	10225	IPC	posteroventral (inferior) parietal cortex	BS_0207	24 pcw	0.4615384615384615	mid_fetal_neurogenesis	12288	M	True
+208	12288	H376.IV.50	24 pcw	M	10194	OFC	orbital frontal cortex	BS_0208	24 pcw	0.4615384615384615	mid_fetal_neurogenesis	12288	M	True
+209	12288	H376.IV.50	24 pcw	M	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0209	24 pcw	0.4615384615384615	mid_fetal_neurogenesis	12288	M	True
+210	12288	H376.IV.50	24 pcw	M	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0210	24 pcw	0.4615384615384615	mid_fetal_neurogenesis	12288	M	True
+211	12288	H376.IV.50	24 pcw	M	10185	VFC	ventrolateral prefrontal cortex	BS_0211	24 pcw	0.4615384615384615	mid_fetal_neurogenesis	12288	M	True
+212	12288	H376.IV.50	24 pcw	M	10163	M1C	primary motor cortex (area M1, area 4)	BS_0212	24 pcw	0.4615384615384615	mid_fetal_neurogenesis	12288	M	True
+213	12288	H376.IV.50	24 pcw	M	10278	MFC	anterior (rostral) cingulate (medial prefrontal) cortex	BS_0213	24 pcw	0.4615384615384615	mid_fetal_neurogenesis	12288	M	True
+215	12288	H376.IV.50	24 pcw	M	10269	V1C	primary visual cortex (striate cortex, area V1/17)	BS_0215	24 pcw	0.4615384615384615	mid_fetal_neurogenesis	12288	M	True
+216	12948	H376.V.51	25 pcw	F	10236	A1C	primary auditory cortex (core)	BS_0216	25 pcw	0.4807692307692308	late_fetal_synaptogenesis	12948	F	True
+217	12949	H376.V.52	26 pcw	F	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0217	26 pcw	0.5	late_fetal_synaptogenesis	12949	F	True
+218	12949	H376.V.52	26 pcw	F	10269	V1C	primary visual cortex (striate cortex, area V1/17)	BS_0218	26 pcw	0.5	late_fetal_synaptogenesis	12949	F	True
+219	12949	H376.V.52	26 pcw	F	10173	DFC	dorsolateral prefrontal cortex	BS_0219	26 pcw	0.5	late_fetal_synaptogenesis	12949	F	True
+221	12295	H376.V.50	35 pcw	F	10185	VFC	ventrolateral prefrontal cortex	BS_0221	35 pcw	0.6730769230769231	late_fetal_synaptogenesis	12295	F	True
+222	263195015	H376.V.53	37 pcw	M	10236	A1C	primary auditory cortex (core)	BS_0222	37 pcw	0.7115384615384616	late_fetal_synaptogenesis	263195015	M	True
+223	263195015	H376.V.53	37 pcw	M	10194	OFC	orbital frontal cortex	BS_0223	37 pcw	0.7115384615384616	late_fetal_synaptogenesis	263195015	M	True
+225	263195015	H376.V.53	37 pcw	M	10269	V1C	primary visual cortex (striate cortex, area V1/17)	BS_0225	37 pcw	0.7115384615384616	late_fetal_synaptogenesis	263195015	M	True
+226	263195015	H376.V.53	37 pcw	M	10278	MFC	anterior (rostral) cingulate (medial prefrontal) cortex	BS_0226	37 pcw	0.7115384615384616	late_fetal_synaptogenesis	263195015	M	True
+230	263195015	H376.V.53	37 pcw	M	10225	IPC	posteroventral (inferior) parietal cortex	BS_0230	37 pcw	0.7115384615384616	late_fetal_synaptogenesis	263195015	M	True
+231	263195015	H376.V.53	37 pcw	M	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0231	37 pcw	0.7115384615384616	late_fetal_synaptogenesis	263195015	M	True
+232	263195015	H376.V.53	37 pcw	M	10209	S1C	primary somatosensory cortex (area S1, areas 3,1,2)	BS_0232	37 pcw	0.7115384615384616	late_fetal_synaptogenesis	263195015	M	True
+233	263195015	H376.V.53	37 pcw	M	10173	DFC	dorsolateral prefrontal cortex	BS_0233	37 pcw	0.7115384615384616	late_fetal_synaptogenesis	263195015	M	True
+234	263195015	H376.V.53	37 pcw	M	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0234	37 pcw	0.7115384615384616	late_fetal_synaptogenesis	263195015	M	True
+235	263195015	H376.V.53	37 pcw	M	10163	M1C	primary motor cortex (area M1, area 4)	BS_0235	37 pcw	0.7115384615384616	late_fetal_synaptogenesis	263195015	M	True
+236	263195015	H376.V.53	37 pcw	M	10185	VFC	ventrolateral prefrontal cortex	BS_0236	37 pcw	0.7115384615384616	late_fetal_synaptogenesis	263195015	M	True
+238	12296	H376.VI.50	4 mos	M	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0238	4 mos	0.3333333333333333	infancy_postnatal_circuit_formation	12296	M	True
+240	12296	H376.VI.50	4 mos	M	10269	V1C	primary visual cortex (striate cortex, area V1/17)	BS_0240	4 mos	0.3333333333333333	infancy_postnatal_circuit_formation	12296	M	True
+244	12296	H376.VI.50	4 mos	M	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0244	4 mos	0.3333333333333333	infancy_postnatal_circuit_formation	12296	M	True
+246	12296	H376.VI.50	4 mos	M	10278	MFC	anterior (rostral) cingulate (medial prefrontal) cortex	BS_0246	4 mos	0.3333333333333333	infancy_postnatal_circuit_formation	12296	M	True
+247	12889	H376.VI.51	4 mos	M	10163	M1C	primary motor cortex (area M1, area 4)	BS_0247	4 mos	0.3333333333333333	infancy_postnatal_circuit_formation	12889	M	True
+248	12889	H376.VI.51	4 mos	M	10173	DFC	dorsolateral prefrontal cortex	BS_0248	4 mos	0.3333333333333333	infancy_postnatal_circuit_formation	12889	M	True
+249	12889	H376.VI.51	4 mos	M	10194	OFC	orbital frontal cortex	BS_0249	4 mos	0.3333333333333333	infancy_postnatal_circuit_formation	12889	M	True
+250	12889	H376.VI.51	4 mos	M	10236	A1C	primary auditory cortex (core)	BS_0250	4 mos	0.3333333333333333	infancy_postnatal_circuit_formation	12889	M	True
+251	12889	H376.VI.51	4 mos	M	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0251	4 mos	0.3333333333333333	infancy_postnatal_circuit_formation	12889	M	True
+252	12889	H376.VI.51	4 mos	M	10185	VFC	ventrolateral prefrontal cortex	BS_0252	4 mos	0.3333333333333333	infancy_postnatal_circuit_formation	12889	M	True
+253	12889	H376.VI.51	4 mos	M	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0253	4 mos	0.3333333333333333	infancy_postnatal_circuit_formation	12889	M	True
+255	12890	H376.VI.52	4 mos	M	10163	M1C	primary motor cortex (area M1, area 4)	BS_0255	4 mos	0.3333333333333333	infancy_postnatal_circuit_formation	12890	M	True
+257	12890	H376.VI.52	4 mos	M	10194	OFC	orbital frontal cortex	BS_0257	4 mos	0.3333333333333333	infancy_postnatal_circuit_formation	12890	M	True
+259	12890	H376.VI.52	4 mos	M	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0259	4 mos	0.3333333333333333	infancy_postnatal_circuit_formation	12890	M	True
+260	12890	H376.VI.52	4 mos	M	10236	A1C	primary auditory cortex (core)	BS_0260	4 mos	0.3333333333333333	infancy_postnatal_circuit_formation	12890	M	True
+263	12890	H376.VI.52	4 mos	M	10278	MFC	anterior (rostral) cingulate (medial prefrontal) cortex	BS_0263	4 mos	0.3333333333333333	infancy_postnatal_circuit_formation	12890	M	True
+264	12890	H376.VI.52	4 mos	M	10269	V1C	primary visual cortex (striate cortex, area V1/17)	BS_0264	4 mos	0.3333333333333333	infancy_postnatal_circuit_formation	12890	M	True
+265	12890	H376.VI.52	4 mos	M	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0265	4 mos	0.3333333333333333	infancy_postnatal_circuit_formation	12890	M	True
+266	12890	H376.VI.52	4 mos	M	10209	S1C	primary somatosensory cortex (area S1, areas 3,1,2)	BS_0266	4 mos	0.3333333333333333	infancy_postnatal_circuit_formation	12890	M	True
+267	12890	H376.VI.52	4 mos	M	10225	IPC	posteroventral (inferior) parietal cortex	BS_0267	4 mos	0.3333333333333333	infancy_postnatal_circuit_formation	12890	M	True
+269	12890	H376.VI.52	4 mos	M	10173	DFC	dorsolateral prefrontal cortex	BS_0269	4 mos	0.3333333333333333	infancy_postnatal_circuit_formation	12890	M	True
+270	12890	H376.VI.52	4 mos	M	10185	VFC	ventrolateral prefrontal cortex	BS_0270	4 mos	0.3333333333333333	infancy_postnatal_circuit_formation	12890	M	True
+271	12977	H376.VII.51	10 mos	M	10209	S1C	primary somatosensory cortex (area S1, areas 3,1,2)	BS_0271	10 mos	0.8333333333333334	infancy_postnatal_circuit_formation	12977	M	True
+272	12977	H376.VII.51	10 mos	M	10225	IPC	posteroventral (inferior) parietal cortex	BS_0272	10 mos	0.8333333333333334	infancy_postnatal_circuit_formation	12977	M	True
+273	12977	H376.VII.51	10 mos	M	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0273	10 mos	0.8333333333333334	infancy_postnatal_circuit_formation	12977	M	True
+274	12977	H376.VII.51	10 mos	M	10173	DFC	dorsolateral prefrontal cortex	BS_0274	10 mos	0.8333333333333334	infancy_postnatal_circuit_formation	12977	M	True
+275	12977	H376.VII.51	10 mos	M	10194	OFC	orbital frontal cortex	BS_0275	10 mos	0.8333333333333334	infancy_postnatal_circuit_formation	12977	M	True
+276	12977	H376.VII.51	10 mos	M	10278	MFC	anterior (rostral) cingulate (medial prefrontal) cortex	BS_0276	10 mos	0.8333333333333334	infancy_postnatal_circuit_formation	12977	M	True
+278	12977	H376.VII.51	10 mos	M	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0278	10 mos	0.8333333333333334	infancy_postnatal_circuit_formation	12977	M	True
+280	12977	H376.VII.51	10 mos	M	10269	V1C	primary visual cortex (striate cortex, area V1/17)	BS_0280	10 mos	0.8333333333333334	infancy_postnatal_circuit_formation	12977	M	True
+282	12830	H376.VIII.51	1 yrs	F	10163	M1C	primary motor cortex (area M1, area 4)	BS_0282	1 yrs	1.0	childhood_circuit_refinement	12830	F	True
+283	12830	H376.VIII.51	1 yrs	F	10173	DFC	dorsolateral prefrontal cortex	BS_0283	1 yrs	1.0	childhood_circuit_refinement	12830	F	True
+284	12830	H376.VIII.51	1 yrs	F	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0284	1 yrs	1.0	childhood_circuit_refinement	12830	F	True
+285	12830	H376.VIII.51	1 yrs	F	10269	V1C	primary visual cortex (striate cortex, area V1/17)	BS_0285	1 yrs	1.0	childhood_circuit_refinement	12830	F	True
+286	12830	H376.VIII.51	1 yrs	F	10278	MFC	anterior (rostral) cingulate (medial prefrontal) cortex	BS_0286	1 yrs	1.0	childhood_circuit_refinement	12830	F	True
+287	12830	H376.VIII.51	1 yrs	F	10194	OFC	orbital frontal cortex	BS_0287	1 yrs	1.0	childhood_circuit_refinement	12830	F	True
+288	12830	H376.VIII.51	1 yrs	F	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0288	1 yrs	1.0	childhood_circuit_refinement	12830	F	True
+289	12830	H376.VIII.51	1 yrs	F	10209	S1C	primary somatosensory cortex (area S1, areas 3,1,2)	BS_0289	1 yrs	1.0	childhood_circuit_refinement	12830	F	True
+290	12830	H376.VIII.51	1 yrs	F	10185	VFC	ventrolateral prefrontal cortex	BS_0290	1 yrs	1.0	childhood_circuit_refinement	12830	F	True
+292	12830	H376.VIII.51	1 yrs	F	10236	A1C	primary auditory cortex (core)	BS_0292	1 yrs	1.0	childhood_circuit_refinement	12830	F	True
+295	12830	H376.VIII.51	1 yrs	F	10225	IPC	posteroventral (inferior) parietal cortex	BS_0295	1 yrs	1.0	childhood_circuit_refinement	12830	F	True
+297	12979	H376.VIII.53	2 yrs	F	10185	VFC	ventrolateral prefrontal cortex	BS_0297	2 yrs	2.0	childhood_circuit_refinement	12979	F	True
+298	12979	H376.VIII.53	2 yrs	F	10225	IPC	posteroventral (inferior) parietal cortex	BS_0298	2 yrs	2.0	childhood_circuit_refinement	12979	F	True
+299	12979	H376.VIII.53	2 yrs	F	10209	S1C	primary somatosensory cortex (area S1, areas 3,1,2)	BS_0299	2 yrs	2.0	childhood_circuit_refinement	12979	F	True
+300	12979	H376.VIII.53	2 yrs	F	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0300	2 yrs	2.0	childhood_circuit_refinement	12979	F	True
+302	12979	H376.VIII.53	2 yrs	F	10173	DFC	dorsolateral prefrontal cortex	BS_0302	2 yrs	2.0	childhood_circuit_refinement	12979	F	True
+303	12979	H376.VIII.53	2 yrs	F	10278	MFC	anterior (rostral) cingulate (medial prefrontal) cortex	BS_0303	2 yrs	2.0	childhood_circuit_refinement	12979	F	True
+306	12979	H376.VIII.53	2 yrs	F	10194	OFC	orbital frontal cortex	BS_0306	2 yrs	2.0	childhood_circuit_refinement	12979	F	True
+307	12979	H376.VIII.53	2 yrs	F	10269	V1C	primary visual cortex (striate cortex, area V1/17)	BS_0307	2 yrs	2.0	childhood_circuit_refinement	12979	F	True
+308	12979	H376.VIII.53	2 yrs	F	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0308	2 yrs	2.0	childhood_circuit_refinement	12979	F	True
+310	12836	H376.VIII.52	3 yrs	F	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0310	3 yrs	3.0	childhood_circuit_refinement	12836	F	True
+311	12836	H376.VIII.52	3 yrs	F	10225	IPC	posteroventral (inferior) parietal cortex	BS_0311	3 yrs	3.0	childhood_circuit_refinement	12836	F	True
+312	12836	H376.VIII.52	3 yrs	F	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0312	3 yrs	3.0	childhood_circuit_refinement	12836	F	True
+315	12836	H376.VIII.52	3 yrs	F	10185	VFC	ventrolateral prefrontal cortex	BS_0315	3 yrs	3.0	childhood_circuit_refinement	12836	F	True
+316	12836	H376.VIII.52	3 yrs	F	10163	M1C	primary motor cortex (area M1, area 4)	BS_0316	3 yrs	3.0	childhood_circuit_refinement	12836	F	True
+317	12836	H376.VIII.52	3 yrs	F	10236	A1C	primary auditory cortex (core)	BS_0317	3 yrs	3.0	childhood_circuit_refinement	12836	F	True
+319	12836	H376.VIII.52	3 yrs	F	10269	V1C	primary visual cortex (striate cortex, area V1/17)	BS_0319	3 yrs	3.0	childhood_circuit_refinement	12836	F	True
+320	12980	H376.VIII.54	3 yrs	M	10194	OFC	orbital frontal cortex	BS_0320	3 yrs	3.0	childhood_circuit_refinement	12980	M	True
+321	12980	H376.VIII.54	3 yrs	M	10278	MFC	anterior (rostral) cingulate (medial prefrontal) cortex	BS_0321	3 yrs	3.0	childhood_circuit_refinement	12980	M	True
+322	12980	H376.VIII.54	3 yrs	M	10163	M1C	primary motor cortex (area M1, area 4)	BS_0322	3 yrs	3.0	childhood_circuit_refinement	12980	M	True
+323	12980	H376.VIII.54	3 yrs	M	10209	S1C	primary somatosensory cortex (area S1, areas 3,1,2)	BS_0323	3 yrs	3.0	childhood_circuit_refinement	12980	M	True
+324	12980	H376.VIII.54	3 yrs	M	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0324	3 yrs	3.0	childhood_circuit_refinement	12980	M	True
+325	12980	H376.VIII.54	3 yrs	M	10225	IPC	posteroventral (inferior) parietal cortex	BS_0325	3 yrs	3.0	childhood_circuit_refinement	12980	M	True
+326	12980	H376.VIII.54	3 yrs	M	10236	A1C	primary auditory cortex (core)	BS_0326	3 yrs	3.0	childhood_circuit_refinement	12980	M	True
+328	12980	H376.VIII.54	3 yrs	M	10269	V1C	primary visual cortex (striate cortex, area V1/17)	BS_0328	3 yrs	3.0	childhood_circuit_refinement	12980	M	True
+330	12980	H376.VIII.54	3 yrs	M	10185	VFC	ventrolateral prefrontal cortex	BS_0330	3 yrs	3.0	childhood_circuit_refinement	12980	M	True
+331	12980	H376.VIII.54	3 yrs	M	10173	DFC	dorsolateral prefrontal cortex	BS_0331	3 yrs	3.0	childhood_circuit_refinement	12980	M	True
+333	12980	H376.VIII.54	3 yrs	M	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0333	3 yrs	3.0	childhood_circuit_refinement	12980	M	True
+336	12298	H376.VIII.50	4 yrs	M	10185	VFC	ventrolateral prefrontal cortex	BS_0336	4 yrs	4.0	childhood_circuit_refinement	12298	M	True
+337	12298	H376.VIII.50	4 yrs	M	10173	DFC	dorsolateral prefrontal cortex	BS_0337	4 yrs	4.0	childhood_circuit_refinement	12298	M	True
+338	12298	H376.VIII.50	4 yrs	M	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0338	4 yrs	4.0	childhood_circuit_refinement	12298	M	True
+341	12841	H376.IX.51	8 yrs	M	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0341	8 yrs	8.0	childhood_circuit_refinement	12841	M	True
+342	12841	H376.IX.51	8 yrs	M	10209	S1C	primary somatosensory cortex (area S1, areas 3,1,2)	BS_0342	8 yrs	8.0	childhood_circuit_refinement	12841	M	True
+343	12841	H376.IX.51	8 yrs	M	10225	IPC	posteroventral (inferior) parietal cortex	BS_0343	8 yrs	8.0	childhood_circuit_refinement	12841	M	True
+344	12841	H376.IX.51	8 yrs	M	10269	V1C	primary visual cortex (striate cortex, area V1/17)	BS_0344	8 yrs	8.0	childhood_circuit_refinement	12841	M	True
+345	12841	H376.IX.51	8 yrs	M	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0345	8 yrs	8.0	childhood_circuit_refinement	12841	M	True
+347	12841	H376.IX.51	8 yrs	M	10185	VFC	ventrolateral prefrontal cortex	BS_0347	8 yrs	8.0	childhood_circuit_refinement	12841	M	True
+350	12841	H376.IX.51	8 yrs	M	10163	M1C	primary motor cortex (area M1, area 4)	BS_0350	8 yrs	8.0	childhood_circuit_refinement	12841	M	True
+352	12841	H376.IX.51	8 yrs	M	10173	DFC	dorsolateral prefrontal cortex	BS_0352	8 yrs	8.0	childhood_circuit_refinement	12841	M	True
+354	12841	H376.IX.51	8 yrs	M	10236	A1C	primary auditory cortex (core)	BS_0354	8 yrs	8.0	childhood_circuit_refinement	12841	M	True
+355	12841	H376.IX.51	8 yrs	M	10278	MFC	anterior (rostral) cingulate (medial prefrontal) cortex	BS_0355	8 yrs	8.0	childhood_circuit_refinement	12841	M	True
+356	12841	H376.IX.51	8 yrs	M	10194	OFC	orbital frontal cortex	BS_0356	8 yrs	8.0	childhood_circuit_refinement	12841	M	True
+357	12981	H376.IX.52	8 yrs	M	10278	MFC	anterior (rostral) cingulate (medial prefrontal) cortex	BS_0357	8 yrs	8.0	childhood_circuit_refinement	12981	M	True
+359	12981	H376.IX.52	8 yrs	M	10236	A1C	primary auditory cortex (core)	BS_0359	8 yrs	8.0	childhood_circuit_refinement	12981	M	True
+360	12981	H376.IX.52	8 yrs	M	10185	VFC	ventrolateral prefrontal cortex	BS_0360	8 yrs	8.0	childhood_circuit_refinement	12981	M	True
+363	12981	H376.IX.52	8 yrs	M	10269	V1C	primary visual cortex (striate cortex, area V1/17)	BS_0363	8 yrs	8.0	childhood_circuit_refinement	12981	M	True
+364	12981	H376.IX.52	8 yrs	M	10225	IPC	posteroventral (inferior) parietal cortex	BS_0364	8 yrs	8.0	childhood_circuit_refinement	12981	M	True
+365	12981	H376.IX.52	8 yrs	M	10173	DFC	dorsolateral prefrontal cortex	BS_0365	8 yrs	8.0	childhood_circuit_refinement	12981	M	True
+366	12981	H376.IX.52	8 yrs	M	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0366	8 yrs	8.0	childhood_circuit_refinement	12981	M	True
+367	12981	H376.IX.52	8 yrs	M	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0367	8 yrs	8.0	childhood_circuit_refinement	12981	M	True
+368	12289	H376.IX.50	11 yrs	F	10185	VFC	ventrolateral prefrontal cortex	BS_0368	11 yrs	11.0	childhood_circuit_refinement	12289	F	True
+369	12289	H376.IX.50	11 yrs	F	10225	IPC	posteroventral (inferior) parietal cortex	BS_0369	11 yrs	11.0	childhood_circuit_refinement	12289	F	True
+370	12289	H376.IX.50	11 yrs	F	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0370	11 yrs	11.0	childhood_circuit_refinement	12289	F	True
+371	12289	H376.IX.50	11 yrs	F	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0371	11 yrs	11.0	childhood_circuit_refinement	12289	F	True
+372	12289	H376.IX.50	11 yrs	F	10209	S1C	primary somatosensory cortex (area S1, areas 3,1,2)	BS_0372	11 yrs	11.0	childhood_circuit_refinement	12289	F	True
+373	12289	H376.IX.50	11 yrs	F	10173	DFC	dorsolateral prefrontal cortex	BS_0373	11 yrs	11.0	childhood_circuit_refinement	12289	F	True
+375	12289	H376.IX.50	11 yrs	F	10269	V1C	primary visual cortex (striate cortex, area V1/17)	BS_0375	11 yrs	11.0	childhood_circuit_refinement	12289	F	True
+377	12289	H376.IX.50	11 yrs	F	10236	A1C	primary auditory cortex (core)	BS_0377	11 yrs	11.0	childhood_circuit_refinement	12289	F	True
+379	12289	H376.IX.50	11 yrs	F	10163	M1C	primary motor cortex (area M1, area 4)	BS_0379	11 yrs	11.0	childhood_circuit_refinement	12289	F	True
+380	12289	H376.IX.50	11 yrs	F	10194	OFC	orbital frontal cortex	BS_0380	11 yrs	11.0	childhood_circuit_refinement	12289	F	True
+381	12289	H376.IX.50	11 yrs	F	10278	MFC	anterior (rostral) cingulate (medial prefrontal) cortex	BS_0381	11 yrs	11.0	childhood_circuit_refinement	12289	F	True
+382	12831	H376.X.51	13 yrs	F	10278	MFC	anterior (rostral) cingulate (medial prefrontal) cortex	BS_0382	13 yrs	13.0	adolescence_myelination_refinement	12831	F	True
+383	12831	H376.X.51	13 yrs	F	10225	IPC	posteroventral (inferior) parietal cortex	BS_0383	13 yrs	13.0	adolescence_myelination_refinement	12831	F	True
+384	12831	H376.X.51	13 yrs	F	10185	VFC	ventrolateral prefrontal cortex	BS_0384	13 yrs	13.0	adolescence_myelination_refinement	12831	F	True
+385	12831	H376.X.51	13 yrs	F	10236	A1C	primary auditory cortex (core)	BS_0385	13 yrs	13.0	adolescence_myelination_refinement	12831	F	True
+386	12831	H376.X.51	13 yrs	F	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0386	13 yrs	13.0	adolescence_myelination_refinement	12831	F	True
+387	12831	H376.X.51	13 yrs	F	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0387	13 yrs	13.0	adolescence_myelination_refinement	12831	F	True
+389	12831	H376.X.51	13 yrs	F	10269	V1C	primary visual cortex (striate cortex, area V1/17)	BS_0389	13 yrs	13.0	adolescence_myelination_refinement	12831	F	True
+390	12831	H376.X.51	13 yrs	F	10209	S1C	primary somatosensory cortex (area S1, areas 3,1,2)	BS_0390	13 yrs	13.0	adolescence_myelination_refinement	12831	F	True
+391	12831	H376.X.51	13 yrs	F	10173	DFC	dorsolateral prefrontal cortex	BS_0391	13 yrs	13.0	adolescence_myelination_refinement	12831	F	True
+392	12831	H376.X.51	13 yrs	F	10194	OFC	orbital frontal cortex	BS_0392	13 yrs	13.0	adolescence_myelination_refinement	12831	F	True
+395	12831	H376.X.51	13 yrs	F	10163	M1C	primary motor cortex (area M1, area 4)	BS_0395	13 yrs	13.0	adolescence_myelination_refinement	12831	F	True
+398	12299	H376.X.50	15 yrs	M	10225	IPC	posteroventral (inferior) parietal cortex	BS_0398	15 yrs	15.0	adolescence_myelination_refinement	12299	M	True
+400	12299	H376.X.50	15 yrs	M	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0400	15 yrs	15.0	adolescence_myelination_refinement	12299	M	True
+401	12299	H376.X.50	15 yrs	M	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0401	15 yrs	15.0	adolescence_myelination_refinement	12299	M	True
+404	12984	H376.X.53	18 yrs	M	10163	M1C	primary motor cortex (area M1, area 4)	BS_0404	18 yrs	18.0	adolescence_myelination_refinement	12984	M	True
+405	12984	H376.X.53	18 yrs	M	10269	V1C	primary visual cortex (striate cortex, area V1/17)	BS_0405	18 yrs	18.0	adolescence_myelination_refinement	12984	M	True
+406	12984	H376.X.53	18 yrs	M	10236	A1C	primary auditory cortex (core)	BS_0406	18 yrs	18.0	adolescence_myelination_refinement	12984	M	True
+407	12984	H376.X.53	18 yrs	M	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0407	18 yrs	18.0	adolescence_myelination_refinement	12984	M	True
+408	12984	H376.X.53	18 yrs	M	10185	VFC	ventrolateral prefrontal cortex	BS_0408	18 yrs	18.0	adolescence_myelination_refinement	12984	M	True
+409	12984	H376.X.53	18 yrs	M	10278	MFC	anterior (rostral) cingulate (medial prefrontal) cortex	BS_0409	18 yrs	18.0	adolescence_myelination_refinement	12984	M	True
+410	12984	H376.X.53	18 yrs	M	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0410	18 yrs	18.0	adolescence_myelination_refinement	12984	M	True
+411	12984	H376.X.53	18 yrs	M	10173	DFC	dorsolateral prefrontal cortex	BS_0411	18 yrs	18.0	adolescence_myelination_refinement	12984	M	True
+412	12984	H376.X.53	18 yrs	M	10209	S1C	primary somatosensory cortex (area S1, areas 3,1,2)	BS_0412	18 yrs	18.0	adolescence_myelination_refinement	12984	M	True
+413	12984	H376.X.53	18 yrs	M	10225	IPC	posteroventral (inferior) parietal cortex	BS_0413	18 yrs	18.0	adolescence_myelination_refinement	12984	M	True
+414	12984	H376.X.53	18 yrs	M	10194	OFC	orbital frontal cortex	BS_0414	18 yrs	18.0	adolescence_myelination_refinement	12984	M	True
+416	12832	H376.X.52	19 yrs	F	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0416	19 yrs	19.0	adult_stabilization	12832	F	True
+418	12832	H376.X.52	19 yrs	F	10173	DFC	dorsolateral prefrontal cortex	BS_0418	19 yrs	19.0	adult_stabilization	12832	F	True
+420	12832	H376.X.52	19 yrs	F	10194	OFC	orbital frontal cortex	BS_0420	19 yrs	19.0	adult_stabilization	12832	F	True
+421	12832	H376.X.52	19 yrs	F	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0421	19 yrs	19.0	adult_stabilization	12832	F	True
+423	12832	H376.X.52	19 yrs	F	10209	S1C	primary somatosensory cortex (area S1, areas 3,1,2)	BS_0423	19 yrs	19.0	adult_stabilization	12832	F	True
+424	12832	H376.X.52	19 yrs	F	10163	M1C	primary motor cortex (area M1, area 4)	BS_0424	19 yrs	19.0	adult_stabilization	12832	F	True
+426	12832	H376.X.52	19 yrs	F	10236	A1C	primary auditory cortex (core)	BS_0426	19 yrs	19.0	adult_stabilization	12832	F	True
+427	12832	H376.X.52	19 yrs	F	10269	V1C	primary visual cortex (striate cortex, area V1/17)	BS_0427	19 yrs	19.0	adult_stabilization	12832	F	True
+428	12832	H376.X.52	19 yrs	F	10225	IPC	posteroventral (inferior) parietal cortex	BS_0428	19 yrs	19.0	adult_stabilization	12832	F	True
+429	12832	H376.X.52	19 yrs	F	10185	VFC	ventrolateral prefrontal cortex	BS_0429	19 yrs	19.0	adult_stabilization	12832	F	True
+430	12832	H376.X.52	19 yrs	F	10278	MFC	anterior (rostral) cingulate (medial prefrontal) cortex	BS_0430	19 yrs	19.0	adult_stabilization	12832	F	True
+432	13057	H376.XI.60	21 yrs	F	10278	MFC	anterior (rostral) cingulate (medial prefrontal) cortex	BS_0432	21 yrs	21.0	adult_stabilization	13057	F	True
+433	13057	H376.XI.60	21 yrs	F	10163	M1C	primary motor cortex (area M1, area 4)	BS_0433	21 yrs	21.0	adult_stabilization	13057	F	True
+434	13057	H376.XI.60	21 yrs	F	10236	A1C	primary auditory cortex (core)	BS_0434	21 yrs	21.0	adult_stabilization	13057	F	True
+435	13057	H376.XI.60	21 yrs	F	10173	DFC	dorsolateral prefrontal cortex	BS_0435	21 yrs	21.0	adult_stabilization	13057	F	True
+438	13057	H376.XI.60	21 yrs	F	10269	V1C	primary visual cortex (striate cortex, area V1/17)	BS_0438	21 yrs	21.0	adult_stabilization	13057	F	True
+439	13057	H376.XI.60	21 yrs	F	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0439	21 yrs	21.0	adult_stabilization	13057	F	True
+440	13057	H376.XI.60	21 yrs	F	10185	VFC	ventrolateral prefrontal cortex	BS_0440	21 yrs	21.0	adult_stabilization	13057	F	True
+442	13057	H376.XI.60	21 yrs	F	10209	S1C	primary somatosensory cortex (area S1, areas 3,1,2)	BS_0442	21 yrs	21.0	adult_stabilization	13057	F	True
+443	13057	H376.XI.60	21 yrs	F	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0443	21 yrs	21.0	adult_stabilization	13057	F	True
+444	13057	H376.XI.60	21 yrs	F	10225	IPC	posteroventral (inferior) parietal cortex	BS_0444	21 yrs	21.0	adult_stabilization	13057	F	True
+447	13057	H376.XI.60	21 yrs	F	10194	OFC	orbital frontal cortex	BS_0447	21 yrs	21.0	adult_stabilization	13057	F	True
+448	12300	H376.XI.50	23 yrs	M	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0448	23 yrs	23.0	adult_stabilization	12300	M	True
+450	12300	H376.XI.50	23 yrs	M	10194	OFC	orbital frontal cortex	BS_0450	23 yrs	23.0	adult_stabilization	12300	M	True
+452	12300	H376.XI.50	23 yrs	M	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0452	23 yrs	23.0	adult_stabilization	12300	M	True
+453	12300	H376.XI.50	23 yrs	M	10185	VFC	ventrolateral prefrontal cortex	BS_0453	23 yrs	23.0	adult_stabilization	12300	M	True
+454	12300	H376.XI.50	23 yrs	M	10278	MFC	anterior (rostral) cingulate (medial prefrontal) cortex	BS_0454	23 yrs	23.0	adult_stabilization	12300	M	True
+455	12300	H376.XI.50	23 yrs	M	10163	M1C	primary motor cortex (area M1, area 4)	BS_0455	23 yrs	23.0	adult_stabilization	12300	M	True
+458	12300	H376.XI.50	23 yrs	M	10209	S1C	primary somatosensory cortex (area S1, areas 3,1,2)	BS_0458	23 yrs	23.0	adult_stabilization	12300	M	True
+459	12300	H376.XI.50	23 yrs	M	10236	A1C	primary auditory cortex (core)	BS_0459	23 yrs	23.0	adult_stabilization	12300	M	True
+460	12300	H376.XI.50	23 yrs	M	10225	IPC	posteroventral (inferior) parietal cortex	BS_0460	23 yrs	23.0	adult_stabilization	12300	M	True
+462	12290	H376.XI.52	30 yrs	F	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0462	30 yrs	30.0	adult_stabilization	12290	F	True
+464	12290	H376.XI.52	30 yrs	F	10278	MFC	anterior (rostral) cingulate (medial prefrontal) cortex	BS_0464	30 yrs	30.0	adult_stabilization	12290	F	True
+465	12290	H376.XI.52	30 yrs	F	10194	OFC	orbital frontal cortex	BS_0465	30 yrs	30.0	adult_stabilization	12290	F	True
+466	12290	H376.XI.52	30 yrs	F	10225	IPC	posteroventral (inferior) parietal cortex	BS_0466	30 yrs	30.0	adult_stabilization	12290	F	True
+467	12290	H376.XI.52	30 yrs	F	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0467	30 yrs	30.0	adult_stabilization	12290	F	True
+468	12290	H376.XI.52	30 yrs	F	10209	S1C	primary somatosensory cortex (area S1, areas 3,1,2)	BS_0468	30 yrs	30.0	adult_stabilization	12290	F	True
+471	12290	H376.XI.52	30 yrs	F	10236	A1C	primary auditory cortex (core)	BS_0471	30 yrs	30.0	adult_stabilization	12290	F	True
+472	12290	H376.XI.52	30 yrs	F	10269	V1C	primary visual cortex (striate cortex, area V1/17)	BS_0472	30 yrs	30.0	adult_stabilization	12290	F	True
+473	12290	H376.XI.52	30 yrs	F	10173	DFC	dorsolateral prefrontal cortex	BS_0473	30 yrs	30.0	adult_stabilization	12290	F	True
+475	12290	H376.XI.52	30 yrs	F	10163	M1C	primary motor cortex (area M1, area 4)	BS_0475	30 yrs	30.0	adult_stabilization	12290	F	True
+476	12290	H376.XI.52	30 yrs	F	10185	VFC	ventrolateral prefrontal cortex	BS_0476	30 yrs	30.0	adult_stabilization	12290	F	True
+478	12302	H376.XI.53	36 yrs	M	10163	M1C	primary motor cortex (area M1, area 4)	BS_0478	36 yrs	36.0	adult_stabilization	12302	M	True
+479	12302	H376.XI.53	36 yrs	M	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0479	36 yrs	36.0	adult_stabilization	12302	M	True
+480	12302	H376.XI.53	36 yrs	M	10278	MFC	anterior (rostral) cingulate (medial prefrontal) cortex	BS_0480	36 yrs	36.0	adult_stabilization	12302	M	True
+481	12302	H376.XI.53	36 yrs	M	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0481	36 yrs	36.0	adult_stabilization	12302	M	True
+482	12302	H376.XI.53	36 yrs	M	10225	IPC	posteroventral (inferior) parietal cortex	BS_0482	36 yrs	36.0	adult_stabilization	12302	M	True
+484	12302	H376.XI.53	36 yrs	M	10194	OFC	orbital frontal cortex	BS_0484	36 yrs	36.0	adult_stabilization	12302	M	True
+485	12302	H376.XI.53	36 yrs	M	10185	VFC	ventrolateral prefrontal cortex	BS_0485	36 yrs	36.0	adult_stabilization	12302	M	True
+486	12302	H376.XI.53	36 yrs	M	10173	DFC	dorsolateral prefrontal cortex	BS_0486	36 yrs	36.0	adult_stabilization	12302	M	True
+487	12302	H376.XI.53	36 yrs	M	10236	A1C	primary auditory cortex (core)	BS_0487	36 yrs	36.0	adult_stabilization	12302	M	True
+488	12302	H376.XI.53	36 yrs	M	10269	V1C	primary visual cortex (striate cortex, area V1/17)	BS_0488	36 yrs	36.0	adult_stabilization	12302	M	True
+490	12302	H376.XI.53	36 yrs	M	10209	S1C	primary somatosensory cortex (area S1, areas 3,1,2)	BS_0490	36 yrs	36.0	adult_stabilization	12302	M	True
+494	12303	H376.XI.54	37 yrs	M	10209	S1C	primary somatosensory cortex (area S1, areas 3,1,2)	BS_0494	37 yrs	37.0	adult_stabilization	12303	M	True
+495	12303	H376.XI.54	37 yrs	M	10269	V1C	primary visual cortex (striate cortex, area V1/17)	BS_0495	37 yrs	37.0	adult_stabilization	12303	M	True
+498	12303	H376.XI.54	37 yrs	M	10225	IPC	posteroventral (inferior) parietal cortex	BS_0498	37 yrs	37.0	adult_stabilization	12303	M	True
+500	12303	H376.XI.54	37 yrs	M	10173	DFC	dorsolateral prefrontal cortex	BS_0500	37 yrs	37.0	adult_stabilization	12303	M	True
+501	12303	H376.XI.54	37 yrs	M	10185	VFC	ventrolateral prefrontal cortex	BS_0501	37 yrs	37.0	adult_stabilization	12303	M	True
+502	12303	H376.XI.54	37 yrs	M	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0502	37 yrs	37.0	adult_stabilization	12303	M	True
+503	12303	H376.XI.54	37 yrs	M	10236	A1C	primary auditory cortex (core)	BS_0503	37 yrs	37.0	adult_stabilization	12303	M	True
+504	12303	H376.XI.54	37 yrs	M	10163	M1C	primary motor cortex (area M1, area 4)	BS_0504	37 yrs	37.0	adult_stabilization	12303	M	True
+505	12303	H376.XI.54	37 yrs	M	10194	OFC	orbital frontal cortex	BS_0505	37 yrs	37.0	adult_stabilization	12303	M	True
+507	12303	H376.XI.54	37 yrs	M	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0507	37 yrs	37.0	adult_stabilization	12303	M	True
+509	12303	H376.XI.54	37 yrs	M	10278	MFC	anterior (rostral) cingulate (medial prefrontal) cortex	BS_0509	37 yrs	37.0	adult_stabilization	12303	M	True
+510	12304	H376.XI.56	40 yrs	F	10173	DFC	dorsolateral prefrontal cortex	BS_0510	40 yrs	40.0	adult_stabilization	12304	F	True
+511	12304	H376.XI.56	40 yrs	F	10252	ITC	inferolateral temporal cortex (area TEv, area 20)	BS_0511	40 yrs	40.0	adult_stabilization	12304	F	True
+512	12304	H376.XI.56	40 yrs	F	10185	VFC	ventrolateral prefrontal cortex	BS_0512	40 yrs	40.0	adult_stabilization	12304	F	True
+515	12304	H376.XI.56	40 yrs	F	10236	A1C	primary auditory cortex (core)	BS_0515	40 yrs	40.0	adult_stabilization	12304	F	True
+517	12304	H376.XI.56	40 yrs	F	10269	V1C	primary visual cortex (striate cortex, area V1/17)	BS_0517	40 yrs	40.0	adult_stabilization	12304	F	True
+518	12304	H376.XI.56	40 yrs	F	10194	OFC	orbital frontal cortex	BS_0518	40 yrs	40.0	adult_stabilization	12304	F	True
+519	12304	H376.XI.56	40 yrs	F	10243	STC	posterior (caudal) superior temporal cortex (area 22c)	BS_0519	40 yrs	40.0	adult_stabilization	12304	F	True
+520	12304	H376.XI.56	40 yrs	F	10225	IPC	posteroventral (inferior) parietal cortex	BS_0520	40 yrs	40.0	adult_stabilization	12304	F	True
+521	12304	H376.XI.56	40 yrs	F	10163	M1C	primary motor cortex (area M1, area 4)	BS_0521	40 yrs	40.0	adult_stabilization	12304	F	True
+524	12304	H376.XI.56	40 yrs	F	10209	S1C	primary somatosensory cortex (area S1, areas 3,1,2)	BS_0524	40 yrs	40.0	adult_stabilization	12304	F	True
